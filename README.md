@@ -7,6 +7,8 @@ Notes from papers I'm reading, mostly NLP
 3. Dissecting contextual word embeddings: architecture and representation, Peters et al., 2018 [[Paper](https://arxiv.org/abs/1808.08949)] [[Notes](1808.08949.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 4. BERT: Pre-training of deep bidirectional transformers for language understanding, Devlin et al., 2018 [[Paper](https://arxiv.org/abs/1810.04805)] [[Notes](1810.04805.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 5. Attention is all you need, Vaswani et al., 2018 [[Paper](https://arxiv.org/abs/1706.03762)] [[Notes](1706.03762.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+6. Conditional Random Fields: probabilistic models for segmenting and labeling sequence data, Lafferty et al, 2001 [[Paper](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)] [[Notes](0106.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+7. Bidirectional LSTM-CRF Models for sequence tagging, Huang et al., 2015 [[Paper](https://arxiv.org/abs/1508.01991)] [[Notes](1508.01991.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 14. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
 ## Tags
@@ -17,6 +19,9 @@ Notes from papers I'm reading, mostly NLP
 2. Deep contextualized word representations, Peters et al., 2018 [[Paper](https://arxiv.org/abs/1802.05365)] [[Notes](1802.05365.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 3. Dissecting contextual word embeddings: architecture and representation, Peters et al., 2018 [[Paper](https://arxiv.org/abs/1808.08949)] [[Notes](1808.08949.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 4. BERT: Pre-training of deep bidirectional transformers for language understanding, Devlin et al., 2018 [[Paper](https://arxiv.org/abs/1810.04805)] [[Notes](1810.04805.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+5. Attention is all you need, Vaswani et al., 2018 [[Paper](https://arxiv.org/abs/1706.03762)] [[Notes](1706.03762.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+6. Conditional Random Fields: probabilistic models for segmenting and labeling sequence data, Lafferty et al, 2001 [[Paper](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)] [[Notes](0106.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+7. Bidirectional LSTM-CRF Models for sequence tagging, Huang et al., 2015 [[Paper](https://arxiv.org/abs/1508.01991)] [[Notes](1508.01991.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 14. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
 ### Embeddings
@@ -28,4 +33,7 @@ Notes from papers I'm reading, mostly NLP
 
 ### Architectures
 
-1. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+1. Attention is all you need, Vaswani et al., 2018 [[Paper](https://arxiv.org/abs/1706.03762)] [[Notes](1706.03762.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+2. Conditional Random Fields: probabilistic models for segmenting and labeling sequence data, Lafferty et al, 2001 [[Paper](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)] [[Notes](0106.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+3. Bidirectional LSTM-CRF Models for sequence tagging, Huang et al., 2015 [[Paper](https://arxiv.org/abs/1508.01991)] [[Notes](1508.01991.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+4. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
