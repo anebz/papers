@@ -10,7 +10,8 @@ Notes from papers I'm reading, mostly NLP
 6. Conditional Random Fields: probabilistic models for segmenting and labeling sequence data, Lafferty et al, 2001 [[Paper](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)] [[Notes](0106.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 7. Bidirectional LSTM-CRF Models for sequence tagging, Huang et al., 2015 [[Paper](https://arxiv.org/abs/1508.01991)] [[Notes](1508.01991.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 8. Contextual string embeddings for sequence labeling, Akbik et al., 2018 [[Paper](https://alanakbik.github.io/papers/coling2018.pdf)] [[Notes](1808.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-14. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+9. Flair: an easy-to-use framework for stat-of-the-art NLP [[Paper](https://www.aclweb.org/anthology/N19-4010)] [[Notes](1906.md)] [\#nlp](#nlp) [\#embeddings](#frameworks)
+13. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
 ## Tags
 
@@ -23,7 +24,8 @@ Notes from papers I'm reading, mostly NLP
 5. Attention is all you need, Vaswani et al., 2018 [[Paper](https://arxiv.org/abs/1706.03762)] [[Notes](1706.03762.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 6. Conditional Random Fields: probabilistic models for segmenting and labeling sequence data, Lafferty et al, 2001 [[Paper](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)] [[Notes](0106.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 7. Bidirectional LSTM-CRF Models for sequence tagging, Huang et al., 2015 [[Paper](https://arxiv.org/abs/1508.01991)] [[Notes](1508.01991.md)] [\#nlp](#nlp) [\#architectures](#architectures)
-14. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+8. Flair: an easy-to-use framework for stat-of-the-art NLP [[Paper](https://www.aclweb.org/anthology/N19-4010)] [[Notes](1906.md)] [\#nlp](#nlp) [\#embeddings](#frameworks)
+13. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
 ### Embeddings
 
@@ -38,3 +40,7 @@ Notes from papers I'm reading, mostly NLP
 2. Conditional Random Fields: probabilistic models for segmenting and labeling sequence data, Lafferty et al, 2001 [[Paper](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)] [[Notes](0106.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 3. Bidirectional LSTM-CRF Models for sequence tagging, Huang et al., 2015 [[Paper](https://arxiv.org/abs/1508.01991)] [[Notes](1508.01991.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 4. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+
+### Frameworks
+
+1. Flair: an easy-to-use framework for stat-of-the-art NLP [[Paper](https://www.aclweb.org/anthology/N19-4010)] [[Notes](1906.md)] [\#nlp](#nlp) [\#embeddings](#frameworks)
