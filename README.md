@@ -20,6 +20,7 @@ Notes from papers I'm reading, ordered chronologically.
 14. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
 15. XLNet: generalized autoregressive pretraining for language understanding, Yang et al., 2019 [[Paper](https://arxiv.org/abs/1906.08237)] [[Notes](1906.08237.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 16. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+17. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 
 ## Embeddings
 
@@ -46,6 +47,7 @@ Notes from papers I'm reading, ordered chronologically.
 
 1. Introduction to the CoNLL-2003 shared task: language-independent named entity recognition, Sang et al., 2003 [[Paper](https://dl.acm.org/citation.cfm?id=1119195)] [[Notes](0306.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 2. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
+3. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 
 ## NER
 
