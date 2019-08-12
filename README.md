@@ -17,8 +17,9 @@ Notes from papers I'm reading, ordered chronologically.
 11. BERT: Pre-training of deep bidirectional transformers for language understanding, Devlin et al., 2018 [[Paper](https://arxiv.org/abs/1810.04805)] [[Notes](1810.04805.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 12. Flair: an easy-to-use framework for stat-of-the-art NLP [[Paper](https://www.aclweb.org/anthology/N19-4010)] [[Notes](1906.md)] [\#nlp](#nlp) [\#embeddings](#frameworks)
 13. Towards Robust Named Entity Recognition for Historic German, Schweter et al., 2019 [[Paper](https://arxiv.org/abs/1906.07592)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner)
-14. XLNet: generalized autoregressive pretraining for language understanding, Yang et al., 2019 [[Paper](https://arxiv.org/abs/1906.08237)] [[Notes](1906.08237.md)] [\#nlp](#nlp) [\#architectures](#architectures)
-15. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+14. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
+15. XLNet: generalized autoregressive pretraining for language understanding, Yang et al., 2019 [[Paper](https://arxiv.org/abs/1906.08237)] [[Notes](1906.08237.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+16. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
 ## Embeddings
 
@@ -44,10 +45,12 @@ Notes from papers I'm reading, ordered chronologically.
 ## Datasets
 
 1. Introduction to the CoNLL-2003 shared task: language-independent named entity recognition, Sang et al., 2003 [[Paper](https://dl.acm.org/citation.cfm?id=1119195)] [[Notes](0306.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+2. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
 
 ## NER
 
 1. Introduction to the CoNLL-2003 shared task: language-independent named entity recognition, Sang et al., 2003 [[Paper](https://dl.acm.org/citation.cfm?id=1119195)] [[Notes](0306.md)] [\#nlp](#nlp) [\#datasets](#datasets) [\#NER](#ner)
 2. Neural Architectures for Named Entity Recognition, Lample et al., 2016 [[Paper](https://www.aclweb.org/anthology/N16-1030)] [[Notes](1606).md)] [\#nlp](#nlp) [\#architectures](#architectures) [\#NER](#ner)
-3. amed Entity Recognition with Bidirectional LSTM-CNNs, Chiu et al., 2016 [[Paper](https://www.aclweb.org/anthology/Q16-1026)] [[Notes](1607).md)] [\#nlp](#nlp) [\#architectures](#architectures) [\#NER](#ner)
+3. Named Entity Recognition with Bidirectional LSTM-CNNs, Chiu et al., 2016 [[Paper](https://www.aclweb.org/anthology/Q16-1026)] [[Notes](1607).md)] [\#nlp](#nlp) [\#architectures](#architectures) [\#NER](#ner)
 4. Towards Robust Named Entity Recognition for Historic German, Schweter et al., 2019 [[Paper](https://arxiv.org/abs/1906.07592)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner)
+5. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
