@@ -21,6 +21,7 @@ Notes from papers I'm reading, ordered chronologically.
 15. XLNet: generalized autoregressive pretraining for language understanding, Yang et al., 2019 [[Paper](https://arxiv.org/abs/1906.08237)] [[Notes](1906.08237.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 16. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 17. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+18. Linguistic Knowledge and Transferability of Contextual Representations, Liu et al., 2019 [[Paper](https://arxiv.org/abs/1903.08855)] [[Notes](1903.08855.md)] [\#nlp](#nlp)
 
 ## Embeddings
 
