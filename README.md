@@ -70,3 +70,8 @@ Notes from papers I'm reading, ordered chronologically.
 ## Social sciences
 
 1. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
+2. Fake news game confers psychological resistanceagainst online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](1908.md)][\#social-sciences](#social-sciences) [\#humanities](#humanities)
+
+## Humanities
+
+1. Fake news game confers psychological resistanceagainst online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](1908.md)][\#social-sciences](#social-sciences) [\#humanities](#humanities)
