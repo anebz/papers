@@ -12,20 +12,21 @@ Notes from papers I'm reading, ordered chronologically.
 6. Semi-supervised sequence tagging with bidirectional language models, Peters et al., 2017 [[Paper](https://arxiv.org/abs/1705.00108)] [[Notes](1705.00108.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 7. Attention is all you need, Vaswani et al., 2018 [[Paper](https://arxiv.org/abs/1706.03762)] [[Notes](1706.03762.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 8. Deep contextualized word representations, Peters et al., 2018 [[Paper](https://arxiv.org/abs/1802.05365)] [[Notes](1802.05365.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-9. Dissecting contextual word embeddings: architecture and representation, Peters et al., 2018 [[Paper](https://arxiv.org/abs/1808.08949)] [[Notes](1808.08949.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-10. Contextual string embeddings for sequence labeling, Akbik et al., 2018 [[Paper](https://alanakbik.github.io/papers/coling2018.pdf)] [[Notes](1808.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-11. Targeted synctactic evaluation of language models, Marvin and Linzen, 2018 [[Paper](https://arxiv.org/abs/1808.09031)] [[Notes](1808.09031.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-12. BERT: Pre-training of deep bidirectional transformers for language understanding, Devlin et al., 2018 [[Paper](https://arxiv.org/abs/1810.04805)] [[Notes](1810.04805.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-13. Linguistic Knowledge and Transferability of Contextual Representations, Liu et al., 2019 [[Paper](https://arxiv.org/abs/1903.08855)] [[Notes](1903.08855.md)] [\#nlp](#nlp)
-14. What do you learn from context? Probing for sentence structure in contextualized word representations, Tenney et al., 2019 [[Paper](https://openreview.net/forum?id=SJzSgnRcKX)] [[Notes](1905.md)] [\#nlp](#nlp)
-15. Flair: an easy-to-use framework for stat-of-the-art NLP [[Paper](https://www.aclweb.org/anthology/N19-4010)] [[Notes](1906.md)] [\#nlp](#nlp) [\#embeddings](#frameworks)
-16. Towards Robust Named Entity Recognition for Historic German, Schweter et al., 2019 [[Paper](https://arxiv.org/abs/1906.07592)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner)
-17. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
-18. XLNet: generalized autoregressive pretraining for language understanding, Yang et al., 2019 [[Paper](https://arxiv.org/abs/1906.08237)] [[Notes](1906.08237.md)] [\#nlp](#nlp) [\#architectures](#architectures)
-19. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
-20. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
-21. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-22. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
+9. SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference, Zellers et al., 2018 [[Paper](https://arxiv.org/abs/1808.05326)] [[Notes](1808.05326.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+10. Dissecting contextual word embeddings: architecture and representation, Peters et al., 2018 [[Paper](https://arxiv.org/abs/1808.08949)] [[Notes](1808.08949.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+11. Contextual string embeddings for sequence labeling, Akbik et al., 2018 [[Paper](https://alanakbik.github.io/papers/coling2018.pdf)] [[Notes](1808.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+12. Targeted synctactic evaluation of language models, Marvin and Linzen, 2018 [[Paper](https://arxiv.org/abs/1808.09031)] [[Notes](1808.09031.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+13. BERT: Pre-training of deep bidirectional transformers for language understanding, Devlin et al., 2018 [[Paper](https://arxiv.org/abs/1810.04805)] [[Notes](1810.04805.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+14. Linguistic Knowledge and Transferability of Contextual Representations, Liu et al., 2019 [[Paper](https://arxiv.org/abs/1903.08855)] [[Notes](1903.08855.md)] [\#nlp](#nlp)
+15. What do you learn from context? Probing for sentence structure in contextualized word representations, Tenney et al., 2019 [[Paper](https://openreview.net/forum?id=SJzSgnRcKX)] [[Notes](1905.md)] [\#nlp](#nlp)
+16. Flair: an easy-to-use framework for stat-of-the-art NLP [[Paper](https://www.aclweb.org/anthology/N19-4010)] [[Notes](1906.md)] [\#nlp](#nlp) [\#embeddings](#frameworks)
+17. Towards Robust Named Entity Recognition for Historic German, Schweter et al., 2019 [[Paper](https://arxiv.org/abs/1906.07592)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner)
+18. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
+19. XLNet: generalized autoregressive pretraining for language understanding, Yang et al., 2019 [[Paper](https://arxiv.org/abs/1906.08237)] [[Notes](1906.08237.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+20. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+21. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+22. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+23. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
 
 ## Linguistics
 
@@ -61,6 +62,7 @@ Notes from papers I'm reading, ordered chronologically.
 2. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
 3. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 4. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
+5. SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference, Zellers et al., 2018 [[Paper](https://arxiv.org/abs/1808.05326)] [[Notes](1808.05326.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 
 ## NER
 
