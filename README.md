@@ -35,6 +35,7 @@ Notes from papers I'm reading, ordered chronologically.
 2. Targeted synctactic evaluation of language models, Marvin and Linzen, 2018 [[Paper](https://arxiv.org/abs/1808.09031)] [[Notes](1808.09031.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 3. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
 4. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
+5. Harnessing Context Incongruity for Sarcasm Detection, Joshi et al., 2015 [[Paper](https://www.aclweb.org/anthology/P15-2124/)] [[Notes](1507.md)] [\#linguistics](#linguistics) [\#sarcasm-detection](#sarcasm-detection)
 
 ## Embeddings
 
@@ -74,6 +75,10 @@ Notes from papers I'm reading, ordered chronologically.
 4. Towards Robust Named Entity Recognition for Historic German, Schweter et al., 2019 [[Paper](https://arxiv.org/abs/1906.07592)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner)
 5. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
 
+## Sarcasm detection
+
+1. Harnessing Context Incongruity for Sarcasm Detection, Joshi et al., 2015 [[Paper](https://www.aclweb.org/anthology/P15-2124/)] [[Notes](1507.md)] [\#linguistics](#linguistics) [\#sarcasm-detection](#sarcasm-detection)
+
 ## Social sciences
 
 1. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
@@ -83,4 +88,3 @@ Notes from papers I'm reading, ordered chronologically.
 ## Humanities
 
 1. Fake news game confers psychological resistanceagainst online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](1908.md)] [\#social-sciences](#social-sciences) [\#humanities](#humanities)
-
