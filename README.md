@@ -31,11 +31,11 @@ Notes from papers I'm reading, ordered chronologically.
 
 ## Linguistics
 
-1. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+1. Harnessing Context Incongruity for Sarcasm Detection, Joshi et al., 2015 [[Paper](https://www.aclweb.org/anthology/P15-2124/)] [[Notes](1507.md)] [\#linguistics](#linguistics) [\#sarcasm-detection](#sarcasm-detection)
 2. Targeted synctactic evaluation of language models, Marvin and Linzen, 2018 [[Paper](https://arxiv.org/abs/1808.09031)] [[Notes](1808.09031.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-3. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
-4. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
-5. Harnessing Context Incongruity for Sarcasm Detection, Joshi et al., 2015 [[Paper](https://www.aclweb.org/anthology/P15-2124/)] [[Notes](1507.md)] [\#linguistics](#linguistics) [\#sarcasm-detection](#sarcasm-detection)
+3. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
+4. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+5. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
 
 ## Embeddings
 
@@ -61,10 +61,10 @@ Notes from papers I'm reading, ordered chronologically.
 ## Datasets
 
 1. Introduction to the CoNLL-2003 shared task: language-independent named entity recognition, Sang et al., 2003 [[Paper](https://dl.acm.org/citation.cfm?id=1119195)] [[Notes](0306.md)] [\#nlp](#nlp) [\#datasets](#datasets)
-2. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
-3. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
-4. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
-5. SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference, Zellers et al., 2018 [[Paper](https://arxiv.org/abs/1808.05326)] [[Notes](1808.05326.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+2. SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference, Zellers et al., 2018 [[Paper](https://arxiv.org/abs/1808.05326)] [[Notes](1808.05326.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+3. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
+4. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+5. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
 6. HellaSwag: Can a Machine Really Finish Your Sentence?, Zellers et al., 2019 [[Paper](https://arxiv.org/abs/1905.07830)] [[Notes](1905.07830.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 
 ## NER
@@ -78,13 +78,14 @@ Notes from papers I'm reading, ordered chronologically.
 ## Sarcasm detection
 
 1. Harnessing Context Incongruity for Sarcasm Detection, Joshi et al., 2015 [[Paper](https://www.aclweb.org/anthology/P15-2124/)] [[Notes](1507.md)] [\#linguistics](#linguistics) [\#sarcasm-detection](#sarcasm-detection)
+2. Automatic Sarcasm Detection: A Survey, Joshi et al., 2017 [[Paper](https://dl.acm.org/citation.cfm?id=3124420)] [[Notes](1602.03426.md)] [\#sarcasm-detection](#sarcasm-detection)
 
 ## Social sciences
 
-1. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
-2. Fake news game confers psychological resistanceagainst online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](1908.md)] [\#social-sciences](#social-sciences) [\#humanities](#humanities)
-3. How much does education improve intelligence? A meta-analysis, Ritchie et al., 2017 [[Paper](https://journals.sagepub.com/doi/abs/10.1177/0956797618774253)] [[Notes](1711.md)] [\#social-sciences](#social-sciences)
+1. How much does education improve intelligence? A meta-analysis, Ritchie et al., 2017 [[Paper](https://journals.sagepub.com/doi/abs/10.1177/0956797618774253)] [[Notes](1711.md)] [\#social-sciences](#social-sciences)
+2. Fake news game confers psychological resistance against online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](1908.md)] [\#social-sciences](#social-sciences) [\#humanities](#humanities)
+3. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
 
 ## Humanities
 
-1. Fake news game confers psychological resistanceagainst online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](1908.md)] [\#social-sciences](#social-sciences) [\#humanities](#humanities)
+1. Fake news game confers psychological resistance against online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](1908.md)] [\#social-sciences](#social-sciences) [\#humanities](#humanities)
