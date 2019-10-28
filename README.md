@@ -77,8 +77,9 @@ Notes from papers I'm reading, ordered chronologically.
 
 ## Sarcasm detection
 
-1. Harnessing Context Incongruity for Sarcasm Detection, Joshi et al., 2015 [[Paper](https://www.aclweb.org/anthology/P15-2124/)] [[Notes](1507.md)] [\#linguistics](#linguistics) [\#sarcasm-detection](#sarcasm-detection)
-2. Automatic Sarcasm Detection: A Survey, Joshi et al., 2017 [[Paper](https://dl.acm.org/citation.cfm?id=3124420)] [[Notes](1602.03426.md)] [\#sarcasm-detection](#sarcasm-detection)
+1. Contextualized Sarcasm Detection on Twitter, Bamman and Smith, 2015 [[Paper](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewPaper/10538)] [[Notes](1507.md)] [\#sarcasm-detection](#sarcasm-detection)
+2. Harnessing Context Incongruity for Sarcasm Detection, Joshi et al., 2015 [[Paper](https://www.aclweb.org/anthology/P15-2124/)] [[Notes](1507.md)] [\#linguistics](#linguistics) [\#sarcasm-detection](#sarcasm-detection)
+3. Automatic Sarcasm Detection: A Survey, Joshi et al., 2017 [[Paper](https://dl.acm.org/citation.cfm?id=3124420)] [[Notes](1602.03426.md)] [\#sarcasm-detection](#sarcasm-detection)
 
 ## Social sciences
 
