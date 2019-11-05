@@ -67,6 +67,7 @@ Notes from papers I'm reading, ordered chronologically.
 5. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
 6. HellaSwag: Can a Machine Really Finish Your Sentence?, Zellers et al., 2019 [[Paper](https://arxiv.org/abs/1905.07830)] [[Notes](1905.07830.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 7. Sentiment analysis is not solved! Assessing and probing sentiment classification, Barnes et al., 2019 [[Paper](https://arxiv.org/abs/1906.05887)] [[Notes](1906.05887.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+8. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 
 ## NER
 
@@ -84,8 +85,10 @@ Notes from papers I'm reading, ordered chronologically.
 4. Automatic Sarcasm Detection: A Survey, Joshi et al., 2017 [[Paper](https://dl.acm.org/citation.cfm?id=3124420)] [[Notes](1602.03426.md)] [\#sarcasm-detection](#sarcasm-detection)
 5. Detecting Sarcasm is Extremely Easy ;-), Parde and Nielsen, 2018 [[Paper](https://www.aclweb.org/anthology/W18-1303/)] [[Notes](1806.md)] [\#sarcasm-detection](#sarcasm-detection)
 6. CASCADE: Contextual Sarcasm Detection in Online Discussion Forums, Hazarika et al., 2018 [[Paper](https://arxiv.org/abs/1805.06413)] [[Notes](1805.06413.md)] [\#sarcasm-detection](#sarcasm-detection)
-7. Exploring Author Context for Detecting Intended vs Perceived Sarcasm, Oprea and Magdy, 2019 [[Paper](https://www.aclweb.org/anthology/P19-1275/)] [[Notes](1907.1275.md)] [\#sarcasm-detection](#sarcasm-detection)
-8. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection)
+7. Tweet Irony Detection with Densely Connected LSTM and Multi-task Learning, Wu et al., 2018 [[Paper](https://www.aclweb.org/anthology/S18-1006/)] [[Notes](1806.1006.md)] [\#sarcasm-detection](#sarcasm-detection)
+8. Exploring Author Context for Detecting Intended vs Perceived Sarcasm, Oprea and Magdy, 2019 [[Paper](https://www.aclweb.org/anthology/P19-1275/)] [[Notes](1907.1275.md)] [\#sarcasm-detection](#sarcasm-detection)
+9. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection)
+10. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 
 ## Social sciences
 
