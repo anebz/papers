@@ -65,9 +65,10 @@ Notes from papers I'm reading, ordered chronologically.
 3. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
 4. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 5. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
-6. HellaSwag: Can a Machine Really Finish Your Sentence?, Zellers et al., 2019 [[Paper](https://arxiv.org/abs/1905.07830)] [[Notes](1905.07830.md)] [\#nlp](#nlp) [\#datasets](#datasets)
-7. Sentiment analysis is not solved! Assessing and probing sentiment classification, Barnes et al., 2019 [[Paper](https://arxiv.org/abs/1906.05887)] [[Notes](1906.05887.md)] [\#nlp](#nlp) [\#datasets](#datasets)
-8. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
+6. UR-FUNNY: A Multimodal Language Dataset for Understanding Humor, Hasan et al., 2019 [[Paper](https://arxiv.org/abs/1904.06618)] [[Notes](1904.06618.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
+7. HellaSwag: Can a Machine Really Finish Your Sentence?, Zellers et al., 2019 [[Paper](https://arxiv.org/abs/1905.07830)] [[Notes](1905.07830.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+8. Sentiment analysis is not solved! Assessing and probing sentiment classification, Barnes et al., 2019 [[Paper](https://arxiv.org/abs/1906.05887)] [[Notes](1906.05887.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+9. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 
 ## NER
 
@@ -86,9 +87,10 @@ Notes from papers I'm reading, ordered chronologically.
 5. Detecting Sarcasm is Extremely Easy ;-), Parde and Nielsen, 2018 [[Paper](https://www.aclweb.org/anthology/W18-1303/)] [[Notes](1806.md)] [\#sarcasm-detection](#sarcasm-detection)
 6. CASCADE: Contextual Sarcasm Detection in Online Discussion Forums, Hazarika et al., 2018 [[Paper](https://arxiv.org/abs/1805.06413)] [[Notes](1805.06413.md)] [\#sarcasm-detection](#sarcasm-detection)
 7. Tweet Irony Detection with Densely Connected LSTM and Multi-task Learning, Wu et al., 2018 [[Paper](https://www.aclweb.org/anthology/S18-1006/)] [[Notes](1806.1006.md)] [\#sarcasm-detection](#sarcasm-detection)
-8. Exploring Author Context for Detecting Intended vs Perceived Sarcasm, Oprea and Magdy, 2019 [[Paper](https://www.aclweb.org/anthology/P19-1275/)] [[Notes](1907.1275.md)] [\#sarcasm-detection](#sarcasm-detection)
-9. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection)
-10. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
+8. UR-FUNNY: A Multimodal Language Dataset for Understanding Humor, Hasan et al., 2019 [[Paper](https://arxiv.org/abs/1904.06618)] [[Notes](1904.06618.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
+9. Exploring Author Context for Detecting Intended vs Perceived Sarcasm, Oprea and Magdy, 2019 [[Paper](https://www.aclweb.org/anthology/P19-1275/)] [[Notes](1907.1275.md)] [\#sarcasm-detection](#sarcasm-detection)
+10. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection)
+11. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 
 ## Social sciences
 
