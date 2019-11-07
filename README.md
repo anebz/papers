@@ -51,8 +51,9 @@ Notes from papers I'm reading, ordered chronologically.
 3. Neural Architectures for Named Entity Recognition, Lample et al., 2016 [[Paper](https://www.aclweb.org/anthology/N16-1030)] [[Notes](1606.md)] [\#nlp](#nlp) [\#architectures](#architectures) [\#NER](#ner)
 4. Named Entity Recognition with Bidirectional LSTM-CNNs, Chiu et al., 2016 [[Paper](https://www.aclweb.org/anthology/16-1026)] [[Notes](1607.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 5. Attention is all you need, Vaswani et al., 2018 [[Paper](https://arxiv.org/abs/1706.03762)] [[Notes](1706.03762.md)] [\#nlp](#nlp) [\#architectures](#architectures)
-6. XLNet: generalized autoregressive pretraining for language understanding, Yang et al., 2019 [[Paper](https://arxiv.org/abs/1906.08237)] [[Notes](1906.08237.md)] [\#nlp](#nlp) [\#architectures](#architectures)
-7. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+6. Reasoning with Sarcasm by Reading In-between, Tay et al., 2018 [[Paper](https://www.aclweb.org/anthology/P18-1093/)] [[Notes](1807.1093.md)] [\#sarcasm-detection](#sarcasm-detection) [\#architectures](#architectures)
+8. XLNet: generalized autoregressive pretraining for language understanding, Yang et al., 2019 [[Paper](https://arxiv.org/abs/1906.08237)] [[Notes](1906.08237.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+9. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
 ## Frameworks
 
@@ -91,6 +92,7 @@ Notes from papers I'm reading, ordered chronologically.
 9. Exploring Author Context for Detecting Intended vs Perceived Sarcasm, Oprea and Magdy, 2019 [[Paper](https://www.aclweb.org/anthology/P19-1275/)] [[Notes](1907.1275.md)] [\#sarcasm-detection](#sarcasm-detection)
 10. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection)
 11. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
+12. Reasoning with Sarcasm by Reading In-between, Tay et al., 2018 [[Paper](https://www.aclweb.org/anthology/P18-1093/)] [[Notes](1807.1093.md)] [\#sarcasm-detection](#sarcasm-detection) [\#architectures](#architectures)
 
 ## Social sciences
 
