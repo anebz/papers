@@ -80,7 +80,7 @@ Notes from papers I'm reading, ordered chronologically.
 4. Towards Robust Named Entity Recognition for Historic German, Schweter et al., 2019 [[Paper](https://arxiv.org/abs/1906.07592)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner)
 5. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
 
-## Sarcasm detection
+## Sarcasm detection ([summary](sarcasm_detection.md))
 
 1. Sarcasm Detection on Twitter: A Behavioral Modeling Approach, Rajadesingan et al., 2015 [[Paper](https://dl.acm.org/citation.cfm?id=2685316)] [[Notes](1502.md)] [\#sarcasm-detection](#sarcasm-detection)
 2. Contextualized Sarcasm Detection on Twitter, Bamman and Smith, 2015 [[Paper](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewPaper/10538)] [[Notes](1504.md)] [\#sarcasm-detection](#sarcasm-detection)
