@@ -106,6 +106,7 @@ Notes from papers I'm reading, ordered chronologically.
 1. How much does education improve intelligence? A meta-analysis, Ritchie et al., 2017 [[Paper](https://journals.sagepub.com/doi/abs/10.1177/0956797618774253)] [[Notes](1711.md)] [\#social-sciences](#social-sciences)
 2. Fake news game confers psychological resistance against online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](1908.md)] [\#social-sciences](#social-sciences) [\#humanities](#humanities)
 3. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
+4. Kids these days: Why the youth of today seem lacking, Protzko and Schooler, 2019 [[Paper](https://advances.sciencemag.org/content/5/10/eaav5916)] [[Notes](1910.5916.md)] [\#social-sciences](#social-sciences)
 
 ## Humanities
 
