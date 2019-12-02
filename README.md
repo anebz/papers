@@ -29,6 +29,7 @@ Notes from papers I'm reading, ordered chronologically.
 23. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 24. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 25. HuggingFace's Transformers: State-of-the-art Natural Language Processing, Wolf et al., 2019 [[Paper](https://arxiv.org/abs/1910.03771)] [[Notes](1910.03771.md)] [\#nlp](#nlp) [\#frameworks](#frameworks)
+26. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
 ## Computer vision
 
@@ -59,6 +60,7 @@ Notes from papers I'm reading, ordered chronologically.
 6. Reasoning with Sarcasm by Reading In-between, Tay et al., 2018 [[Paper](https://www.aclweb.org/anthology/P18-1093/)] [[Notes](1807.1093.md)] [\#sarcasm-detection](#sarcasm-detection) [\#architectures](#architectures)
 8. XLNet: generalized autoregressive pretraining for language understanding, Yang et al., 2019 [[Paper](https://arxiv.org/abs/1906.08237)] [[Notes](1906.08237.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 9. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+10. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
 ## Frameworks
 
