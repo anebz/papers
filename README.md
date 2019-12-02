@@ -117,3 +117,9 @@ Notes from papers I'm reading, ordered chronologically.
 ## Physics
 
 1. First-order transition in a model of prestige bias, Skinner, 2019 [[Paper](https://arxiv.org/abs/1910.05813)] [[Notes](1910.05813.md)] [\#physics](#physics)
+
+## Neuroscience
+
+1. A deep learning framework for neuroscience, Richard et al., 2019 [[Paper](https://www.nature.com/articles/s41593-019-0520-2] [[Notes](1911.41503.md)] [\#neuroscience](#neuroscience)
+
+
