@@ -29,7 +29,8 @@ Notes from papers I'm reading, ordered chronologically.
 23. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 24. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 25. HuggingFace's Transformers: State-of-the-art Natural Language Processing, Wolf et al., 2019 [[Paper](https://arxiv.org/abs/1910.03771)] [[Notes](1910.03771.md)] [\#nlp](#nlp) [\#frameworks](#frameworks)
-26. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+26. Evaluating the Factual Consistency of Abstractive Text Summarization, Kryscinski et al., 2019 [[Paper](https://arxiv.org/abs/1910.12840)] [[Notes](1910.12840.md)] [\#nlp](#nlp) [\#text-summarization](#text-summarization)
+27. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
 ## Computer vision
 
@@ -102,6 +103,10 @@ Notes from papers I'm reading, ordered chronologically.
 10. Exploring Author Context for Detecting Intended vs Perceived Sarcasm, Oprea and Magdy, 2019 [[Paper](https://www.aclweb.org/anthology/P19-1275/)] [[Notes](1907.1275.md)] [\#sarcasm-detection](#sarcasm-detection)
 11. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 12. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
+
+## Text summarization
+
+1. Evaluating the Factual Consistency of Abstractive Text Summarization, Kryscinski et al., 2019 [[Paper](https://arxiv.org/abs/1910.12840)] [[Notes](1910.12840.md)] [\#nlp](#nlp) [\#text-summarization](#text-summarization)
 
 ## Social sciences
 
