@@ -32,26 +32,14 @@ Notes from papers I'm reading, ordered chronologically.
 26. Evaluating the Factual Consistency of Abstractive Text Summarization, Kryscinski et al., 2019 [[Paper](https://arxiv.org/abs/1910.12840)] [[Notes](1910.12840.md)] [\#nlp](#nlp) [\#text-summarization](#text-summarization)
 27. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
-## Computer vision
-
-1. Cubic Stylization, Derek Liu and Jacobson, 2019 [[Paper](https://arxiv.org/abs/1910.02926)] [[Notes](1910.02926.md)] [\#computer-vision](#computer-vision)
-
-## Linguistics
-
-1. Harnessing Context Incongruity for Sarcasm Detection, Joshi et al., 2015 [[Paper](https://www.aclweb.org/anthology/P15-2124/)] [[Notes](1507.2124.md)] [\#linguistics](#linguistics) [\#sarcasm-detection](#sarcasm-detection)
-2. Targeted synctactic evaluation of language models, Marvin and Linzen, 2018 [[Paper](https://arxiv.org/abs/1808.09031)] [[Notes](1808.09031.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-3. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
-4. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-5. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
-
-## Embeddings
+### Embeddings
 
 1. Semi-supervised sequence tagging with bidirectional language models, Peters et al., 2017 [[Paper](https://arxiv.org/abs/1705.00108)] [[Notes](1705.00108.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 2. Deep contextualized word representations, Peters et al., 2018 [[Paper](https://arxiv.org/abs/1802.05365)] [[Notes](1802.05365.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 3. Dissecting contextual word embeddings: architecture and representation, Peters et al., 2018 [[Paper](https://arxiv.org/abs/1808.08949)] [[Notes](1808.08949.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 4. BERT: Pre-training of deep bidirectional transformers for language understanding, Devlin et al., 2018 [[Paper](https://arxiv.org/abs/1810.04805)] [[Notes](1810.04805.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 
-## Architectures
+### Architectures
 
 1. Conditional Random Fields: probabilistic models for segmenting and labeling sequence data, Lafferty et al, 2001 [[Paper](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)] [[Notes](0106.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 2. Bidirectional LSTM-CRF Models for sequence tagging, Huang et al., 2015 [[Paper](https://arxiv.org/abs/1508.01991)] [[Notes](1508.01991.md)] [\#nlp](#nlp) [\#architectures](#architectures)
@@ -63,12 +51,12 @@ Notes from papers I'm reading, ordered chronologically.
 9. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 10. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
-## Frameworks
+### Frameworks
 
 1. Flair: an easy-to-use framework for stat-of-the-art NLP [[Paper](https://www.aclweb.org/anthology/N19-4010)] [[Notes](1906.4010.md)] [\#nlp](#nlp) [\#frameworks](#frameworks)
 2. HuggingFace's Transformers: State-of-the-art Natural Language Processing, Wolf et al., 2019 [[Paper](https://arxiv.org/abs/1910.03771)] [[Notes](1910.03771.md)] [\#nlp](#nlp) [\#frameworks](#frameworks)
 
-## Datasets
+### Datasets
 
 1. Introduction to the CoNLL-2003 shared task: language-independent named entity recognition, Sang et al., 2003 [[Paper](https://dl.acm.org/citation.cfm?id=1119195)] [[Notes](0306.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 2. SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference, Zellers et al., 2018 [[Paper](https://arxiv.org/abs/1808.05326)] [[Notes](1808.05326.md)] [\#nlp](#nlp) [\#datasets](#datasets)
@@ -81,7 +69,7 @@ Notes from papers I'm reading, ordered chronologically.
 9. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 10. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 
-## NER
+### NER
 
 1. Introduction to the CoNLL-2003 shared task: language-independent named entity recognition, Sang et al., 2003 [[Paper](https://dl.acm.org/citation.cfm?id=1119195)] [[Notes](0306.md)] [\#nlp](#nlp) [\#datasets](#datasets) [\#NER](#ner)
 2. Neural Architectures for Named Entity Recognition, Lample et al., 2016 [[Paper](https://www.aclweb.org/anthology/N16-1030)] [[Notes](1606.1030.md)] [\#nlp](#nlp) [\#architectures](#architectures) [\#NER](#ner)
@@ -89,7 +77,7 @@ Notes from papers I'm reading, ordered chronologically.
 4. Towards Robust Named Entity Recognition for Historic German, Schweter et al., 2019 [[Paper](https://arxiv.org/abs/1906.07592)] [[Notes](1906.07592.md)] [\#nlp](#nlp) [\#NER](#ner)
 5. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](1807.2020.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
 
-## Sarcasm detection ([summary](sarcasm_detection.md))
+### Sarcasm detection ([summary](sarcasm_detection.md))
 
 1. Sarcasm Detection on Twitter: A Behavioral Modeling Approach, Rajadesingan et al., 2015 [[Paper](https://dl.acm.org/citation.cfm?id=2685316)] [[Notes](1502.md)] [\#sarcasm-detection](#sarcasm-detection)
 2. Contextualized Sarcasm Detection on Twitter, Bamman and Smith, 2015 [[Paper](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewPaper/10538)] [[Notes](1504.md)] [\#sarcasm-detection](#sarcasm-detection)
@@ -104,9 +92,27 @@ Notes from papers I'm reading, ordered chronologically.
 11. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 12. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 
-## Text summarization
+### Text summarization
 
 1. Evaluating the Factual Consistency of Abstractive Text Summarization, Kryscinski et al., 2019 [[Paper](https://arxiv.org/abs/1910.12840)] [[Notes](1910.12840.md)] [\#nlp](#nlp) [\#text-summarization](#text-summarization)
+
+---
+
+## Computer vision
+
+1. Cubic Stylization, Derek Liu and Jacobson, 2019 [[Paper](https://arxiv.org/abs/1910.02926)] [[Notes](1910.02926.md)] [\#computer-vision](#computer-vision)
+
+---
+
+## Linguistics
+
+1. Harnessing Context Incongruity for Sarcasm Detection, Joshi et al., 2015 [[Paper](https://www.aclweb.org/anthology/P15-2124/)] [[Notes](1507.2124.md)] [\#linguistics](#linguistics) [\#sarcasm-detection](#sarcasm-detection)
+2. Targeted synctactic evaluation of language models, Marvin and Linzen, 2018 [[Paper](https://arxiv.org/abs/1808.09031)] [[Notes](1808.09031.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+3. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
+4. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+5. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
+
+---
 
 ## Social sciences
 
@@ -115,16 +121,20 @@ Notes from papers I'm reading, ordered chronologically.
 3. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
 4. Kids these days: Why the youth of today seem lacking, Protzko and Schooler, 2019 [[Paper](https://advances.sciencemag.org/content/5/10/eaav5916)] [[Notes](1910.5916.md)] [\#social-sciences](#social-sciences)
 
+---
+
 ## Humanities
 
 1. Fake news game confers psychological resistance against online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](1908.md)] [\#social-sciences](#social-sciences) [\#humanities](#humanities)
+
+---
 
 ## Physics
 
 1. First-order transition in a model of prestige bias, Skinner, 2019 [[Paper](https://arxiv.org/abs/1910.05813)] [[Notes](1910.05813.md)] [\#physics](#physics)
 
+---
+
 ## Neuroscience
 
 1. A deep learning framework for neuroscience, Richard et al., 2019 [[Paper](https://www.nature.com/articles/s41593-019-0520-2] [[Notes](1911.41503.md)] [\#neuroscience](#neuroscience)
-
-
