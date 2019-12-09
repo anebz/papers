@@ -137,4 +137,4 @@ Notes from papers I'm reading, ordered chronologically.
 
 ## Neuroscience
 
-1. A deep learning framework for neuroscience, Richard et al., 2019 [[Paper](https://www.nature.com/articles/s41593-019-0520-2] [[Notes](1911.41503.md)] [\#neuroscience](#neuroscience)
+1. A deep learning framework for neuroscience, Richard et al., 2019 [[Paper](https://www.nature.com/articles/s41593-019-0520-2)] [[Notes](1911.41503.md)] [\#neuroscience](#neuroscience)
