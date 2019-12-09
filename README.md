@@ -30,7 +30,8 @@ Notes from papers I'm reading, ordered chronologically.
 24. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 25. HuggingFace's Transformers: State-of-the-art Natural Language Processing, Wolf et al., 2019 [[Paper](https://arxiv.org/abs/1910.03771)] [[Notes](1910.03771.md)] [\#nlp](#nlp) [\#frameworks](#frameworks)
 26. Evaluating the Factual Consistency of Abstractive Text Summarization, Kryscinski et al., 2019 [[Paper](https://arxiv.org/abs/1910.12840)] [[Notes](1910.12840.md)] [\#nlp](#nlp) [\#text-summarization](#text-summarization)
-27. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+27. Generalization through Memorization: Nearest Neighbor Language Models, Khandelwal et al., 2019 [[Paper](https://arxiv.org/abs/1911.001723)] [[Notes](1911.001723.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+28. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
 ### Embeddings
 
@@ -49,7 +50,8 @@ Notes from papers I'm reading, ordered chronologically.
 6. Reasoning with Sarcasm by Reading In-between, Tay et al., 2018 [[Paper](https://www.aclweb.org/anthology/P18-1093/)] [[Notes](1807.1093.md)] [\#sarcasm-detection](#sarcasm-detection) [\#architectures](#architectures)
 8. XLNet: generalized autoregressive pretraining for language understanding, Yang et al., 2019 [[Paper](https://arxiv.org/abs/1906.08237)] [[Notes](1906.08237.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 9. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
-10. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+10. Generalization through Memorization: Nearest Neighbor Language Models, Khandelwal et al., 2019 [[Paper](https://arxiv.org/abs/1911.001723)] [[Notes](1911.001723.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+11. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
 ### Frameworks
 
