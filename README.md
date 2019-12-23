@@ -93,6 +93,8 @@ Notes from papers I'm reading, ordered chronologically.
 10. Exploring Author Context for Detecting Intended vs Perceived Sarcasm, Oprea and Magdy, 2019 [[Paper](https://www.aclweb.org/anthology/P19-1275/)] [[Notes](1907.1275.md)] [\#sarcasm-detection](#sarcasm-detection)
 11. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 12. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
+13. A2Text-Net: A Novel Deep Neural Network for Sarcasm Detection, Liu et al., 2019 [[Paper](https://www.researchgate.net/profile/Liyuan_Liu23/publication/337425314_A2Text-Net_A_Novel_Deep_Neural_Network_for_Sarcasm_Detection/links/5dd6bd1d458515dc2f41db91/A2Text-Net-A-Novel-Deep-Neural-Network-for-Sarcasm-Detection.pdf)] [[Notes](1912.33742.md)] [\#sarcasm-detection](#sarcasm-detection)
+14. Sarcasm detection in tweets, Rajagopalan et al., 2019 [[Paper](https://jadhosn.github.io/projects/CSE575_FinalReport-SarcasmDetection.pdf)] [[Notes](1911.575.md)] [\#sarcasm-detection](#sarcasm-detection)
 
 ### Text summarization
 
