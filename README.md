@@ -32,6 +32,7 @@ Notes from papers I'm reading, ordered chronologically.
 26. Evaluating the Factual Consistency of Abstractive Text Summarization, Kryscinski et al., 2019 [[Paper](https://arxiv.org/abs/1910.12840)] [[Notes](1910.12840.md)] [\#nlp](#nlp) [\#text-summarization](#text-summarization)
 27. Generalization through Memorization: Nearest Neighbor Language Models, Khandelwal et al., 2019 [[Paper](https://arxiv.org/abs/1911.001723)] [[Notes](1911.001723.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 28. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+29. What’s Going On in Neural Constituency Parsers? An Analysis, Gaddy et al., 2018 [[Paper](https://arxiv.org/abs/1804.07853)] [[Notes](1804.07853.md)] [\#nlp](#nlp)
 
 ### Embeddings
 
@@ -52,6 +53,7 @@ Notes from papers I'm reading, ordered chronologically.
 9. R-Transformer: Recurrent Neural Network Enhanced Transformer, Wang et al., 2019 [[Paper](https://arxiv.org/abs/1907.05572)] [[Notes](1907.05572.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 10. Generalization through Memorization: Nearest Neighbor Language Models, Khandelwal et al., 2019 [[Paper](https://arxiv.org/abs/1911.001723)] [[Notes](1911.001723.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 11. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+12. A Transformer-based approach to Irony and Sarcasm detection, Potamias et al., 2019 [[Paper](https://arxiv.org/abs/1911.10401)] [[Notes](1911.10401.md)] [\#sarcasm-detection](#sarcasm-detection) [\#architecture](#architecture)
 
 ### Frameworks
 
@@ -70,6 +72,7 @@ Notes from papers I'm reading, ordered chronologically.
 8. Sentiment analysis is not solved! Assessing and probing sentiment classification, Barnes et al., 2019 [[Paper](https://arxiv.org/abs/1906.05887)] [[Notes](1906.05887.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 9. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 10. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
+11. iSarcasm: A Dataset of Intended Sarcasm, Oprea et al., 2019 [[Paper](https://arxiv.org/abs/1911.03123)] [[Notes](1911.03123.md)] [\#datasets](#dataset) [\#sarcasm-detection](#sarcasm-detection)
 
 ### NER
 
@@ -95,6 +98,9 @@ Notes from papers I'm reading, ordered chronologically.
 12. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 13. A2Text-Net: A Novel Deep Neural Network for Sarcasm Detection, Liu et al., 2019 [[Paper](https://www.researchgate.net/profile/Liyuan_Liu23/publication/337425314_A2Text-Net_A_Novel_Deep_Neural_Network_for_Sarcasm_Detection/links/5dd6bd1d458515dc2f41db91/A2Text-Net-A-Novel-Deep-Neural-Network-for-Sarcasm-Detection.pdf)] [[Notes](1912.33742.md)] [\#sarcasm-detection](#sarcasm-detection)
 14. Sarcasm detection in tweets, Rajagopalan et al., 2019 [[Paper](https://jadhosn.github.io/projects/CSE575_FinalReport-SarcasmDetection.pdf)] [[Notes](1911.575.md)] [\#sarcasm-detection](#sarcasm-detection)
+15. A Transformer-based approach to Irony and Sarcasm detection, Potamias et al., 2019 [[Paper](https://arxiv.org/abs/1911.10401)] [[Notes](1911.10401.md)] [\#sarcasm-detection](#sarcasm-detection) [\#architecture](#architecture)
+16. Deep and dense sarcasm detection, Pelser et al., 2019 [[Paper](https://arxiv.org/abs/1911.07474)] [[Notes](1911.07474.md)] [\#sarcasm-detection](#sarcasm-detection)
+17. iSarcasm: A Dataset of Intended Sarcasm, Oprea et al., 2019 [[Paper](https://arxiv.org/abs/1911.03123)] [[Notes](1911.03123.md)] [\#datasets](#dataset) [\#sarcasm-detection](#sarcasm-detection)
 
 ### Text summarization
 
