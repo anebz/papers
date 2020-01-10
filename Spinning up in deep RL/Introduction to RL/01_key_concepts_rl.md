@@ -28,16 +28,35 @@ A **policy** is a rule used by an agent to decide what actions to take. It can b
 
 ![ ](https://spinningup.openai.com/en/latest/_images/math/73fcacd255a221d20d5d9300acf86e4d3bf5ea1b.svg)
 
-a<sub>t</sub> = &mu;(s<sub>t</sub>),
-
 or it might be stochastic, denoted by &pi;:
 
 ![ ](https://spinningup.openai.com/en/latest/_images/math/89757355805c4084ac93610e9581c060f2e61610.svg)
 
-a<sub>t</sub> &sim; &pi; (\cdot | s<sub>t</sub>),
+Because the policy is the agent's brain, sometimes agent is used instead of policy. In deep RL, policies are parameterized: computable functions which depend on weights and biases of a NN, which we can adjust to change the behavior via some optimization algorithm. We denote the parameters of such a policy by &theta; and write this as a subscript to highlight the connection:
+
+![ ](https://spinningup.openai.com/en/latest/_images/math/831f731859658682b2af7e217a76648697c9de46.svg)
+
+### 3.1. Deterministic policies
+
+Each action always gets the same output.
+
+### 3.2. Stochastic policies
+
+Two most common kind of stochastic policies: 
+
+* categorical policies
+    - can be used in discrete action spaces
+* diagonal Gaussian policies
+    - continuous action spaces
+
+Two key computations are important for stochastic policies:
+
+* sampling actions from the policy
+* computation of log likelihoods of particular actions
+
+![ ](https://spinningup.openai.com/en/latest/_images/math/cc2095cba170e09137c55cb4f1786955b3174336.svg)
 
 
-a<sub>t</sub> &sim; &pi; (&dot; | s<sub>t</sub>),
 
 ##  4. trajectories
 
