@@ -26,14 +26,18 @@ The **action space** is the set of all valid actions in a given environment. Som
 
 A **policy** is a rule used by an agent to decide what actions to take. It can be deterministic, in which case it's denoted by &mu;:
 
+![ ](https://spinningup.openai.com/en/latest/_images/math/73fcacd255a221d20d5d9300acf86e4d3bf5ea1b.svg)
+
 a<sub>t</sub> = &mu;(s<sub>t</sub>),
 
 or it might be stochastic, denoted by &pi;:
 
+![ ](https://spinningup.openai.com/en/latest/_images/math/89757355805c4084ac93610e9581c060f2e61610.svg)
+
 a<sub>t</sub> &sim; &pi; (\cdot | s<sub>t</sub>),
 
 
-a<sub>t</sub> &sim; &pi; (&cdot; | s<sub>t</sub>),
+a<sub>t</sub> &sim; &pi; (&dot; | s<sub>t</sub>),
 
 ##  4. trajectories
 
