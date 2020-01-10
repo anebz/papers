@@ -2,7 +2,7 @@
 
 Definition: RL is the study of agents and how they learn by trial and error. 
 
-![ ](https://spinningup.openai.com/en/latest/_images/rl_diagram_transparent_bg.png){width=500}
+![ ](https://spinningup.openai.com/en/latest/_images/rl_diagram_transparent_bg.png)
 
 The **environment** is the world that the agent lives in and interacts with. At every step of the interaction, the **agent** sees a (possibly partial) observation of the state of the world, and then decides on an action to take. The environment changes when the agent acts on it, and can also change on its own.
 
@@ -10,13 +10,13 @@ The agent receives a **reward** signal from the environment, a number saying how
 
 ##  1. states and observations
 
-A state *s* is a complete description of the state of the world. No information about the world is hidden from the state. An observation *o* is a partial description of a state, which might omit information.
+A state `s` is a complete description of the state of the world. No information about the world is hidden from the state. An observation `o` is a partial description of a state, which might omit information.
 
 In deep RL, states and observations are represented by a real-valued vector/matrix/higher order tensor. Could be RGB matrix, or angles and velocities of a robot.
 
 When the agent is able to observe the complete state of the environment, then the environment is fully observed. If it can only see a partial observation, it's partially observed.
 
-In notation, sometimes *s* is used when it really should be *o*. This happens when talking about how the agent decides an action: we often signal in notation that the action is conditioned on the state, when in practice, the action is conditioned on the observation because the agent does not have access to the state.
+In notation, sometimes `s` is used when it really should be `o`. This happens when talking about how the agent decides an action: we often signal in notation that the action is conditioned on the state, when in practice, the action is conditioned on the observation because the agent does not have access to the state.
 
 ##  2. Action spaces
 
@@ -26,13 +26,14 @@ The **action space** is the set of all valid actions in a given environment. Som
 
 A **policy** is a rule used by an agent to decide what actions to take. It can be deterministic, in which case it's denoted by &mu;:
 
-a<sub>t</sub> = &mu;(a<sub>t</sub>),
+a<sub>t</sub> = &mu;(s<sub>t</sub>),
 
-or it might be stochastic, denoted by &pi;
+or it might be stochastic, denoted by &pi;:
 
-a<sub>t</sub> &sim; &mu;(a<sub>t</sub>),
+a<sub>t</sub> &sim; &pi; (\cdot | s<sub>t</sub>),
 
-a_t &sim; \pi(\cdot | s_t).
+
+a<sub>t</sub> &sim; &pi; (&cdot; | s<sub>t</sub>),
 
 ##  4. trajectories
 
