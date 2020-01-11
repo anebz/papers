@@ -105,8 +105,8 @@ but frequently it's simplified to just a dependence on the current state-action 
 
 The goal of the agent is to maximize a cumulative reward over a trajectory: R(&tau;). Different kinds of returns:
 
-1. Finite-horizon undiscounted return, the sum of rewards obtained in a fixed window of steps 
-    * ![ ](https://spinningup.openai.com/en/latest/_images/math/b2466507811fc9b9cbe2a0a51fd36034e16f2780.svg)
+1. Finite-horizon undiscounted return, the sum of rewards obtained in a fixed window of steps ![alt text](https://spinningup.openai.com/en/latest/_images/math/b2466507811fc9b9cbe2a0a51fd36034e16f2780.svg "Logo Title Text 1")
+
 2. Infinite-horizon discounted return, the sum of all rewards *ever* obtained by the agent, but discounted by how far off in the future they're obtained. The discount factor is between 0 and 1. 
     * ![ ](https://spinningup.openai.com/en/latest/_images/math/bf49428c66c91a45d7b66a432450ee49a3622348.svg)
 
