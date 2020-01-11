@@ -105,17 +105,62 @@ but frequently it's simplified to just a dependence on the current state-action 
 
 The goal of the agent is to maximize a cumulative reward over a trajectory: R(&tau;). Different kinds of returns:
 
-1. Finite-horizon undiscounted return, the sum of rewards obtained in a fixed window of steps ![alt text](https://spinningup.openai.com/en/latest/_images/math/b2466507811fc9b9cbe2a0a51fd36034e16f2780.svg "Logo Title Text 1")
-
-2. Infinite-horizon discounted return, the sum of all rewards *ever* obtained by the agent, but discounted by how far off in the future they're obtained. The discount factor is between 0 and 1. 
-    * ![ ](https://spinningup.openai.com/en/latest/_images/math/bf49428c66c91a45d7b66a432450ee49a3622348.svg)
+1. Finite-horizon undiscounted return, the sum of rewards obtained in a fixed window of steps ![alt text](https://spinningup.openai.com/en/latest/_images/math/b2466507811fc9b9cbe2a0a51fd36034e16f2780.svg)
+2. Infinite-horizon discounted return, the sum of all rewards *ever* obtained by the agent, but discounted by how far off in the future they're obtained. The discount factor is between 0 and 1. ![alt text](https://spinningup.openai.com/en/latest/_images/math/bf49428c66c91a45d7b66a432450ee49a3622348.svg)
 
 Why discount factor? An infinite-horizon sum of rewards might not converge to a finite value, but with a discount factor and under some conditions, it does.
 
 ##  6. The RL optimization problem
 
+The goal in RL is to select a policy which maximizes **expected return** when the agent acts according to it.
 
+To talk about expected return, we first have to talk about probability distributions over trajectories.
+
+Let’s suppose that both the environment transitions and the policy are stochastic. In this case, the probability of a T -step trajectory is:
+
+![ ](https://spinningup.openai.com/en/latest/_images/math/69369e7fae3098a2f05a79680fbecbf48a4e7f66.svg)
+
+The expected return (for whichever measure), denoted by J(\pi), is then:
+
+![ ](https://spinningup.openai.com/en/latest/_images/math/f0d6e3879540e318df14d2c8b68af828b1b350da.svg)
+
+The central optimization problem in RL can then be expressed by:
+
+![ ](https://spinningup.openai.com/en/latest/_images/math/2de61070bf8758d03104b4f15df45c8ff5a86f5a.svg)
+
+with &pi;\* being the **optimal policy**.
 
 ##  7. Value functions
 
+The value of a state or a state-action pair is the expected return if you start in that state or state-action pair, and then act according to a particular policy forever after. There are 4 main value functions:
 
+1. On-Policy value function, which gives the expected return if you start in state `s` and always act according to policy &pi;
+    * ![ ](https://spinningup.openai.com/en/latest/_images/math/e043709b46c9aa6811953dabd82461db6308fe19.svg)
+2. On-Policy Action-value function, which gives the expected return if you start in state `s`, take an arbitrary action `a` and then forever after act according to &pi;
+    * ![ ](https://spinningup.openai.com/en/latest/_images/math/85d41c8c383a96e1ed34fc66f14abd61b132dd28.svg)
+3. Optimal value function, which gives the expected return if you start in state `s` and always act according to the *optimal* policy in the environment
+    * ![ ](https://spinningup.openai.com/en/latest/_images/math/01d48ea453ecb7b560ea7d42144ae24422fbd0eb.svg)
+4. Optimal-action-value function, which gives the expected return if you start in state `s`, take an arbitrary action `a` and then forever after act according to the *optimal* policy
+    * ![ ](https://spinningup.openai.com/en/latest/_images/math/bc92e8ce1cf0aaa212e144d5ed74e3b115453cb6.svg)
+
+### 7.1. [Bellman equations](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html#bellman-equations)
+
+The value of your starting point is the reward you expect to get from being there + the value of wherever you land next.
+
+### 7.2. [Advantage functions](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html#advantage-functions)
+
+The advantage function is the relative advantage of the action relating to the other functions in average. IT describes how much better is to take a specific action `a` in state `s` over randomly selecting an action according to the policy.
+
+![ ](https://spinningup.openai.com/en/latest/_images/math/3748974cc061fb4065fa46dd6271395d59f22040.svg)
+
+## 8. [Markov Decision Processes](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html#optional-formalism) (MDPs)
+
+An MDP is a 5-tuple, (S, A, R, P, &rho;<sub>0</sub>) where
+
+* S is the set of all valid states
+* A is the set of all valid actions
+* R is the reward function, with r<sub>t</sub> = R(s<sub>t</sub> , a<sub>t</sub> , s<sub>t+1</sub>)
+* P is the transition probability function, with P(s'|s, a) being the probability of transitioning into state `s'` if you start in state `s` and take action `a`
+* &rho;<sub>0</sub> is the starting state distribution
+
+If a system is a MDP, it obeys the Markov property: transitions only depend on the most recent state and action, and no prior history.
