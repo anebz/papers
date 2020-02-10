@@ -8,7 +8,7 @@ The **environment** is the world that the agent lives in and interacts with. At 
 
 The agent receives a **reward** signal from the environment, a number saying how good/bad the current world state is. The goal of the agent is to maximize its cumulative reward, called **return**. RL methods are ways that the agent can learn behaviors to achieve its goal.
 
-##  1. states and observations
+##  1. States and observations
 
 A state `s` is a complete description of the state of the world. No information about the world is hidden from the state. An observation `o` is a partial description of a state, which might omit information.
 
@@ -56,7 +56,7 @@ Two key computations are important for stochastic policies:
 
 #### 3.2.1. Categorical policies
 
-IT's a classifier over discrete actions, the NN design is the same as for a classification task. The input is the observation, a number of layers (convolutional, densely-connected), and then a final linear layer giving you logits for each action, and a softmax to convert logits into probabilities.
+It's a classifier over discrete actions, the NN design is the same as for a classification task. The input is the observation, a number of layers (convolutional, densely-connected), and then a final linear layer giving you logits for each action, and a softmax to convert logits into probabilities.
 
 Given the probabilities for each action, Tensorflow has built-in tools for sampling.
 
@@ -120,7 +120,7 @@ Let’s suppose that both the environment transitions and the policy are stochas
 
 ![ ](https://spinningup.openai.com/en/latest/_images/math/69369e7fae3098a2f05a79680fbecbf48a4e7f66.svg)
 
-The expected return (for whichever measure), denoted by J(\pi), is then:
+The expected return (for whichever measure), denoted by J(&pi;), is then:
 
 ![ ](https://spinningup.openai.com/en/latest/_images/math/f0d6e3879540e318df14d2c8b68af828b1b350da.svg)
 
