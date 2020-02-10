@@ -34,6 +34,7 @@ Notes from papers I'm reading, ordered chronologically.
 28. Generalization through Memorization: Nearest Neighbor Language Models, Khandelwal et al., 2019 [[Paper](https://arxiv.org/abs/1911.001723)] [[Notes](1911.001723.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 29. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 30. What’s Going On in Neural Constituency Parsers? An Analysis, Gaddy et al., 2018 [[Paper](https://arxiv.org/abs/1804.07853)] [[Notes](1804.07853.md)] [\#nlp](#nlp)
+31. BPE-Dropout: simple and effective subword regularization, Provilkov et al., 2019 [[Paper](https://arxiv.org/abs/1910.13267)] [[Notes](1910.13267.md)] [\#nlp](#nlp)
 
 ### Embeddings
 
