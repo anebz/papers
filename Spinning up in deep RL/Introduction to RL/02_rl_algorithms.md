@@ -6,7 +6,7 @@
 
 The difference is whether the agent has acces to, or learns a model of the environment. Model of the environment == a function which predicts state transitions and rewards.
 
-If there's a model, the agent can plan, think ahead, see what would happen for a range of possible choices, and explicitly decide between its options. But usually there's no ground-truth model of the environment. Usually the agent wants to use a model, it has to learn it purely from experience.
+If there's a model, the agent can plan, think ahead, see what would happen for a range of possible choices, and explicitly decide between its options. But usually there's no ground-truth model of the environment. Usually if the agent wants to use a model, it has to learn it purely from experience.
 
 Then, bias in the model can be exploited resulting in an agent that performs well with respect to the learnt model, but behaves sub-optimally in the real environment.
 
