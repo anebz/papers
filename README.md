@@ -112,6 +112,12 @@ Notes from papers I'm reading, ordered chronologically.
 
 ---
 
+## Reinforcement learning
+
+1. Mastering Atari, Go, Chess and Shogi by Planning with a learned model, Schrittwieser et al., 2019 [[Paper](https://arxiv.org/abs/1911.08265)] [[Notes](2019/1911.08265.md)] [\#reinforcement-learning](#reinforcement-learning)
+
+---
+
 ## Computer vision
 
 1. Cubic Stylization, Derek Liu and Jacobson, 2019 [[Paper](https://arxiv.org/abs/1910.02926)] [[Notes](2019/1910.02926.md)] [\#computer-vision](#computer-vision)
