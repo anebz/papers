@@ -61,6 +61,7 @@ Notes from papers I'm reading, ordered chronologically.
 
 1. Flair: an easy-to-use framework for stat-of-the-art NLP [[Paper](https://www.aclweb.org/anthology/N19-4010)] [[Notes](2019/1906.4010.md)] [\#nlp](#nlp) [\#frameworks](#frameworks)
 2. HuggingFace's Transformers: State-of-the-art Natural Language Processing, Wolf et al., 2019 [[Paper](https://arxiv.org/abs/1910.03771)] [[Notes](2019/1910.03771.md)] [\#nlp](#nlp) [\#frameworks](#frameworks)
+3. Selective Brain Damage: Measuring the Disparate Impact of Model Pruning, Hooker et al., 2019 [[Paper](https://arxiv.org/abs/1911.05248)] [[Notes](2019/1911.05248.md)] [\#frameworks](#frameworks)
 
 ### Datasets
 
