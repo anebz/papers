@@ -127,11 +127,12 @@ Notes from papers I'm reading, ordered chronologically.
 
 ## Linguistics
 
-1. Harnessing Context Incongruity for Sarcasm Detection, Joshi et al., 2015 [[Paper](https://www.aclweb.org/anthology/P15-2124/)] [[Notes](-2017/1507.2124.md)] [\#linguistics](#linguistics) [\#sarcasm-detection](#sarcasm-detection)
-2. Targeted synctactic evaluation of language models, Marvin and Linzen, 2018 [[Paper](https://arxiv.org/abs/1808.09031)] [[Notes](2018/1808.09031.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-3. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](2019/1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
-4. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](2019/1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-5. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](2019/190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
+1. A Trainable Spaced Repetition Model for Language Learning, Settles and Meeder, 2016 [[Paper](https://www.aclweb.org/anthology/P16-1174/)] [[Notes](-2017/1608.1174.md)] [\#linguistics](#linguistics)
+2. Harnessing Context Incongruity for Sarcasm Detection, Joshi et al., 2015 [[Paper](https://www.aclweb.org/anthology/P15-2124/)] [[Notes](-2017/1507.2124.md)] [\#linguistics](#linguistics) [\#sarcasm-detection](#sarcasm-detection)
+3. Targeted synctactic evaluation of language models, Marvin and Linzen, 2018 [[Paper](https://arxiv.org/abs/1808.09031)] [[Notes](2018/1808.09031.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+4. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](2019/1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
+5. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](2019/1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+6. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](2019/190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
 
 ---
 
