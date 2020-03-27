@@ -116,7 +116,8 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 
 ## Reinforcement learning
 
-1. Mastering Atari, Go, Chess and Shogi by Planning with a learned model, Schrittwieser et al., 2019 [[Paper](https://arxiv.org/abs/1911.08265)] [[Notes](2019/1911.08265.md)] [\#reinforcement-learning](#reinforcement-learning)
+1. The Hanabi Challenge: A New Frontier for AI Research, Bard et al., 2019 [[Paper](https://arxiv.org/abs/1902.00506)] [[Notes](2019/1902.00506.md)] [\#reinforcement-learning](#reinforcement-learning)
+2. Mastering Atari, Go, Chess and Shogi by Planning with a learned model, Schrittwieser et al., 2019 [[Paper](https://arxiv.org/abs/1911.08265)] [[Notes](2019/1911.08265.md)] [\#reinforcement-learning](#reinforcement-learning)
 
 ---
 
