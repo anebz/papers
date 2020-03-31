@@ -116,8 +116,9 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 
 ## Reinforcement learning
 
-1. The Hanabi Challenge: A New Frontier for AI Research, Bard et al., 2019 [[Paper](https://arxiv.org/abs/1902.00506)] [[Notes](2019/1902.00506.md)] [\#reinforcement-learning](#reinforcement-learning)
-2. Mastering Atari, Go, Chess and Shogi by Planning with a learned model, Schrittwieser et al., 2019 [[Paper](https://arxiv.org/abs/1911.08265)] [[Notes](2019/1911.08265.md)] [\#reinforcement-learning](#reinforcement-learning)
+1. Theory of Minds: Understanding Behavior in Groups Through Inverse Planning, Shum et al., 2019 [[Paper](https://arxiv.org/abs/1901.06085)] [[Notes](2019/1901.06085.md)] [\#reinforcement-learning](#reinforcement-learning) [\#social-sciences](#social-sciences)
+2. The Hanabi Challenge: A New Frontier for AI Research, Bard et al., 2019 [[Paper](https://arxiv.org/abs/1902.00506)] [[Notes](2019/1902.00506.md)] [\#reinforcement-learning](#reinforcement-learning)
+3. Mastering Atari, Go, Chess and Shogi by Planning with a learned model, Schrittwieser et al., 2019 [[Paper](https://arxiv.org/abs/1911.08265)] [[Notes](2019/1911.08265.md)] [\#reinforcement-learning](#reinforcement-learning)
 
 ---
 
@@ -141,9 +142,10 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 ## Social sciences
 
 1. How much does education improve intelligence? A meta-analysis, Ritchie et al., 2017 [[Paper](https://journals.sagepub.com/doi/abs/10.1177/0956797618774253)] [[Notes](-2017/1711.md)] [\#social-sciences](#social-sciences)
-2. Fake news game confers psychological resistance against online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](2019/1908.md)] [\#social-sciences](#social-sciences) [\#humanities](#humanities)
-3. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](2019/190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
-4. Kids these days: Why the youth of today seem lacking, Protzko and Schooler, 2019 [[Paper](https://advances.sciencemag.org/content/5/10/eaav5916)] [[Notes](2019/1910.5916.md)] [\#social-sciences](#social-sciences)
+2. Theory of Minds: Understanding Behavior in Groups Through Inverse Planning, Shum et al., 2019 [[Paper](https://arxiv.org/abs/1901.06085)] [[Notes](2019/1901.06085.md)] [\#reinforcement-learning](#reinforcement-learning) [\#social-sciences](#social-sciences)
+3. Fake news game confers psychological resistance against online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](2019/1908.md)] [\#social-sciences](#social-sciences) [\#humanities](#humanities)
+4. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](2019/190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
+5. Kids these days: Why the youth of today seem lacking, Protzko and Schooler, 2019 [[Paper](https://advances.sciencemag.org/content/5/10/eaav5916)] [[Notes](2019/1910.5916.md)] [\#social-sciences](#social-sciences)
 
 ---
 
