@@ -38,6 +38,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 32. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](2019/1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 33. What’s Going On in Neural Constituency Parsers? An Analysis, Gaddy et al., 2018 [[Paper](https://arxiv.org/abs/1804.07853)] [[Notes](2018/1804.07853.md)] [\#nlp](#nlp)
 34. BPE-Dropout: simple and effective subword regularization, Provilkov et al., 2019 [[Paper](https://arxiv.org/abs/1910.13267)] [[Notes](2019/1910.13267.md)] [\#nlp](#nlp)
+35. Pre-trained Models for Natural Language Processing: A Survey, Qiu et al., 2020 [[Paper](https://arxiv.org/abs/2003.08271)] [\#nlp](#nlp)
 
 ### Embeddings
 
@@ -134,13 +135,14 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 
 ## Linguistics
 
-1. A Trainable Spaced Repetition Model for Language Learning, Settles and Meeder, 2016 [[Paper](https://www.aclweb.org/anthology/P16-1174/)] [[Notes](-2017/1608.1174.md)] [\#linguistics](#linguistics)
+1. Moving beyond the plateau: from lower-intermediate to upper-intermediate, Richards, 2015 [[Paper](https://www.cambridge.org/elt/blog/2015/08/26/moving-beyond-plateau-lower-upper-intermediate/)] [[Notes](-2017/1508.md)] [\#linguistics](#linguistics)
 2. Harnessing Context Incongruity for Sarcasm Detection, Joshi et al., 2015 [[Paper](https://www.aclweb.org/anthology/P15-2124/)] [[Notes](-2017/1507.2124.md)] [\#linguistics](#linguistics) [\#sarcasm-detection](#sarcasm-detection)
-3. Targeted synctactic evaluation of language models, Marvin and Linzen, 2018 [[Paper](https://arxiv.org/abs/1808.09031)] [[Notes](2018/1808.09031.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-4. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](2019/1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
-5. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](2019/1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-6. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](2019/190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
-7. My English sounds better than yours: Second language learners perceive their own accent as better than that of their peers, Mittlerer et al., 2020 [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227643)] [[Notes](2020/2001.0227643.md)] [\#linguistics](#linguistics)
+3. A Trainable Spaced Repetition Model for Language Learning, Settles and Meeder, 2016 [[Paper](https://www.aclweb.org/anthology/P16-1174/)] [[Notes](-2017/1608.1174.md)] [\#linguistics](#linguistics)
+4. Targeted synctactic evaluation of language models, Marvin and Linzen, 2018 [[Paper](https://arxiv.org/abs/1808.09031)] [[Notes](2018/1808.09031.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+5. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](2019/1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
+6. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](2019/1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+7. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](2019/190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
+8. My English sounds better than yours: Second language learners perceive their own accent as better than that of their peers, Mittlerer et al., 2020 [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227643)] [[Notes](2020/2001.0227643.md)] [\#linguistics](#linguistics)
 
 ---
 
