@@ -39,6 +39,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 33. What’s Going On in Neural Constituency Parsers? An Analysis, Gaddy et al., 2018 [[Paper](https://arxiv.org/abs/1804.07853)] [[Notes](2018/1804.07853.md)] [\#nlp](#nlp)
 34. BPE-Dropout: simple and effective subword regularization, Provilkov et al., 2019 [[Paper](https://arxiv.org/abs/1910.13267)] [[Notes](2019/1910.13267.md)] [\#nlp](#nlp)
 35. Pre-trained Models for Natural Language Processing: A Survey, Qiu et al., 2020 [[Paper](https://arxiv.org/abs/2003.08271)] [\#nlp](#nlp)
+36. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [\#nlp](#nlp)
 
 ### Embeddings
 
