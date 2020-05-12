@@ -26,6 +26,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 9. Attentive Mimicking: Better Word Embeddings by Attending to Informative Contexts, Schick et al., 2019 [[Paper](https://arxiv.org/abs/1904.06707)] [[Notes](2019/1904.06707.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 10. BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance, Schick et al., 2019 [[Paper](https://arxiv.org/abs/1910.07181)] [[Notes](2019/1910.07181.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 11. BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA, Poerner et al., 2019 [[Paper](https://arxiv.org/abs/1911.03681)] [[Notes](2019/1911.03681.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+12. Byte Pair Encoding is Suboptimal for Language Model Pretraining, Bostrom et al., 2020 [[Paper](https://arxiv.org/abs/2004.03720)] [[Notes](2020/2004.03720.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 
 ### Architectures
 
