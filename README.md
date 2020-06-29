@@ -11,7 +11,8 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 5. What’s Going On in Neural Constituency Parsers? An Analysis, Gaddy et al., 2018 [[Paper](https://arxiv.org/abs/1804.07853)] [[Notes](2018/1804.07853.md)] [\#nlp](#nlp)
 6. BPE-Dropout: simple and effective subword regularization, Provilkov et al., 2019 [[Paper](https://arxiv.org/abs/1910.13267)] [[Notes](2019/1910.13267.md)] [\#nlp](#nlp)
 7. Pre-trained Models for Natural Language Processing: A Survey, Qiu et al., 2020 [[Paper](https://arxiv.org/abs/2003.08271)] [\#nlp](#nlp)
-8. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2019/2004.10151.md)] [\#nlp](#nlp)
+8. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2020/2004.10151.md)] [\#nlp](#nlp)
+9. SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings, Sabet et al., 2020 [[Paper](https://arxiv.org/abs/2004.08728)] [[Notes](2020/2004.08728.md)] [\#nlp](#nlp)
 
 ### Embeddings
 
@@ -105,6 +106,9 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 1. Theory of Minds: Understanding Behavior in Groups Through Inverse Planning, Shum et al., 2019 [[Paper](https://arxiv.org/abs/1901.06085)] [[Notes](2019/1901.06085.md)] [\#reinforcement-learning](#reinforcement-learning) [\#social-sciences](#social-sciences)
 2. The Hanabi Challenge: A New Frontier for AI Research, Bard et al., 2019 [[Paper](https://arxiv.org/abs/1902.00506)] [[Notes](2019/1902.00506.md)] [\#reinforcement-learning](#reinforcement-learning)
 3. Mastering Atari, Go, Chess and Shogi by Planning with a learned model, Schrittwieser et al., 2019 [[Paper](https://arxiv.org/abs/1911.08265)] [[Notes](2019/1911.08265.md)] [\#reinforcement-learning](#reinforcement-learning)
+4. Planning to Explore via Self-Supervised World Models, Sekar et al., 2020 [[Paper](https://arxiv.org/abs/2005.05960)] [[Notes](2019/2005.05960.md)] [\#reinforcement-learning](#reinforcement-learning)
+
+
 
 ---
 
