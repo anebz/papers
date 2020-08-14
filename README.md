@@ -13,6 +13,8 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 7. Pre-trained Models for Natural Language Processing: A Survey, Qiu et al., 2020 [[Paper](https://arxiv.org/abs/2003.08271)] [\#nlp](#nlp)
 8. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2020/2004.10151.md)] [\#nlp](#nlp)
 9. SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings, Sabet et al., 2020 [[Paper](https://arxiv.org/abs/2004.08728)] [[Notes](2020/2004.08728.md)] [\#nlp](#nlp)
+10. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2019/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+11. Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al., 2020 [[Paper](https://arxiv.org/abs/2005.14050)] [[Notes](2020/2005.14050.md)] [\#nlp](#nlp)
 
 ### Embeddings
 
@@ -108,8 +110,6 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 3. Mastering Atari, Go, Chess and Shogi by Planning with a learned model, Schrittwieser et al., 2019 [[Paper](https://arxiv.org/abs/1911.08265)] [[Notes](2019/1911.08265.md)] [\#reinforcement-learning](#reinforcement-learning)
 4. Planning to Explore via Self-Supervised World Models, Sekar et al., 2020 [[Paper](https://arxiv.org/abs/2005.05960)] [[Notes](2019/2005.05960.md)] [\#reinforcement-learning](#reinforcement-learning)
 
-
-
 ---
 
 ## Computer vision
@@ -128,6 +128,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 6. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](2019/1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 7. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](2019/190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
 8. My English sounds better than yours: Second language learners perceive their own accent as better than that of their peers, Mittlerer et al., 2020 [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227643)] [[Notes](2020/2001.0227643.md)] [\#linguistics](#linguistics)
+9. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2019/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 
 ---
 
