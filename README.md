@@ -5,16 +5,17 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 ## NLP
 
 1. Neural Machine Translation of Rare Words with Subword Units, Sennrich et al., 2015 [[Paper](https://arxiv.org/abs/1508.07909)] [[Notes](-2017/1508.07909.md)] [\#nlp](#nlp)
-2. Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple and Broadly Applicable, Hangya et al., 2018 [[Paper](https://www.aclweb.org/anthology/P18-1075)] [[Notes](2018/1807.1075.md)] [\#nlp](#nlp)
-3. Linguistic Knowledge and Transferability of Contextual Representations, Liu et al., 2019 [[Paper](https://arxiv.org/abs/1903.08855)] [[Notes](2019/1903.08855.md)] [\#nlp](#nlp)
-4. What do you learn from context? Probing for sentence structure in contextualized word representations, Tenney et al., 2019 [[Paper](https://openreview.net/forum?id=SJzSgnRcKX)] [[Notes](2019/1905.md)] [\#nlp](#nlp)
-5. What’s Going On in Neural Constituency Parsers? An Analysis, Gaddy et al., 2018 [[Paper](https://arxiv.org/abs/1804.07853)] [[Notes](2018/1804.07853.md)] [\#nlp](#nlp)
+2. What’s Going On in Neural Constituency Parsers? An Analysis, Gaddy et al., 2018 [[Paper](https://arxiv.org/abs/1804.07853)] [[Notes](2018/1804.07853.md)] [\#nlp](#nlp)
+3. Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple and Broadly Applicable, Hangya et al., 2018 [[Paper](https://www.aclweb.org/anthology/P18-1075)] [[Notes](2018/1807.1075.md)] [\#nlp](#nlp)
+4. Linguistic Knowledge and Transferability of Contextual Representations, Liu et al., 2019 [[Paper](https://arxiv.org/abs/1903.08855)] [[Notes](2019/1903.08855.md)] [\#nlp](#nlp)
+5. What do you learn from context? Probing for sentence structure in contextualized word representations, Tenney et al., 2019 [[Paper](https://openreview.net/forum?id=SJzSgnRcKX)] [[Notes](2019/1905.md)] [\#nlp](#nlp)
 6. BPE-Dropout: simple and effective subword regularization, Provilkov et al., 2019 [[Paper](https://arxiv.org/abs/1910.13267)] [[Notes](2019/1910.13267.md)] [\#nlp](#nlp)
 7. Pre-trained Models for Natural Language Processing: A Survey, Qiu et al., 2020 [[Paper](https://arxiv.org/abs/2003.08271)] [\#nlp](#nlp)
-8. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2020/2004.10151.md)] [\#nlp](#nlp)
-9. SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings, Sabet et al., 2020 [[Paper](https://arxiv.org/abs/2004.08728)] [[Notes](2020/2004.08728.md)] [\#nlp](#nlp)
-10. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2019/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-11. Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al., 2020 [[Paper](https://arxiv.org/abs/2005.14050)] [[Notes](2020/2005.14050.md)] [\#nlp](#nlp)
+8. Evaluating NLP models via contrast sets, Gardner et al., 2020 [[Paper](https://arxiv.org/abs/2004.02709)] [[Notes](2020/2004.02709.md)] [\#nlp](#nlp)
+9. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2020/2004.10151.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+10. SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings, Sabet et al., 2020 [[Paper](https://arxiv.org/abs/2004.08728)] [[Notes](2020/2004.08728.md)] [\#nlp](#nlp)
+11. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2019/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+12. Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al., 2020 [[Paper](https://arxiv.org/abs/2005.14050)] [[Notes](2020/2005.14050.md)] [\#nlp](#nlp)
 
 ### Embeddings
 
@@ -65,7 +66,8 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 8. Sentiment analysis is not solved! Assessing and probing sentiment classification, Barnes et al., 2019 [[Paper](https://arxiv.org/abs/1906.05887)] [[Notes](2019/1906.05887.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 9. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](2019/1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
 10. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](2019/1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
-11. iSarcasm: A Dataset of Intended Sarcasm, Oprea et al., 2019 [[Paper](https://arxiv.org/abs/1911.03123)] [[Notes](2019/1911.03123.md)] [\#datasets](#dataset) [\#sarcasm-detection](#sarcasm-detection)
+11. iSarcasm: A Dataset of Intended Sarcasm, Oprea et al., 2019 [[Paper](https://arxiv.org/abs/1911.03123)] [[Notes](2019/1911.03123.md)] [\#datasets](#datasets) [\#sarcasm-detection](#sarcasm-detection)
+12. BERTweet: A pre-trained language model for English Tweets, Nguyen et al., 2020 [[Paper](https://arxiv.org/abs/2005.10200)] [[Notes](2019/2005.10200.md)] [\#datasets](#datasets)
 
 ### NER
 
@@ -95,7 +97,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 14. Sarcasm detection in tweets, Rajagopalan et al., 2019 [[Paper](https://jadhosn.github.io/projects/CSE575_FinalReport-SarcasmDetection.pdf)] [[Notes](2019/1911.575.md)] [\#sarcasm-detection](#sarcasm-detection)
 15. A Transformer-based approach to Irony and Sarcasm detection, Potamias et al., 2019 [[Paper](https://arxiv.org/abs/1911.10401)] [[Notes](2019/1911.10401.md)] [\#sarcasm-detection](#sarcasm-detection) [\#architecture](#architecture)
 16. Deep and dense sarcasm detection, Pelser et al., 2019 [[Paper](https://arxiv.org/abs/1911.07474)] [[Notes](2019/1911.07474.md)] [\#sarcasm-detection](#sarcasm-detection)
-17. iSarcasm: A Dataset of Intended Sarcasm, Oprea et al., 2019 [[Paper](https://arxiv.org/abs/1911.03123)] [[Notes](2019/1911.03123.md)] [\#datasets](#dataset) [\#sarcasm-detection](#sarcasm-detection)
+17. iSarcasm: A Dataset of Intended Sarcasm, Oprea et al., 2019 [[Paper](https://arxiv.org/abs/1911.03123)] [[Notes](2019/1911.03123.md)] [\#datasets](#datasets) [\#sarcasm-detection](#sarcasm-detection)
 
 ### Text summarization
 
@@ -128,7 +130,8 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 6. Language Models as Knowledge Bases?, Petroni et al., 2019 [[Paper](https://arxiv.org/abs/1909.01066)] [[Notes](2019/1909.01066.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 7. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](2019/190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
 8. My English sounds better than yours: Second language learners perceive their own accent as better than that of their peers, Mittlerer et al., 2020 [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227643)] [[Notes](2020/2001.0227643.md)] [\#linguistics](#linguistics)
-9. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2019/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+9. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2020/2004.10151.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+10. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2019/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 
 ---
 
