@@ -132,16 +132,18 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 8. My English sounds better than yours: Second language learners perceive their own accent as better than that of their peers, Mittlerer et al., 2020 [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227643)] [[Notes](2020/2001.0227643.md)] [\#linguistics](#linguistics)
 9. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2020/2004.10151.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 10. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2019/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+11. Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data, Bender et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.463/)] [[Notes](2019/2005.00463.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 
 ---
 
 ## Social sciences
 
-1. How much does education improve intelligence? A meta-analysis, Ritchie et al., 2017 [[Paper](https://journals.sagepub.com/doi/abs/10.1177/0956797618774253)] [[Notes](-2017/1711.md)] [\#social-sciences](#social-sciences)
-2. Theory of Minds: Understanding Behavior in Groups Through Inverse Planning, Shum et al., 2019 [[Paper](https://arxiv.org/abs/1901.06085)] [[Notes](2019/1901.06085.md)] [\#reinforcement-learning](#reinforcement-learning) [\#social-sciences](#social-sciences)
-3. Fake news game confers psychological resistance against online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](2019/1908.md)] [\#social-sciences](#social-sciences) [\#humanities](#humanities)
-4. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](2019/190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
-5. Kids these days: Why the youth of today seem lacking, Protzko and Schooler, 2019 [[Paper](https://advances.sciencemag.org/content/5/10/eaav5916)] [[Notes](2019/1910.5916.md)] [\#social-sciences](#social-sciences)
+1. Antisocial Behavior in Online Discussion Communities, Cheng et al., 2015 [[Paper](https://arxiv.org/abs/1504.00680)] [[Notes](-2017/1504.00680.md)] [\#social-sciences](#social-sciences)
+2. How much does education improve intelligence? A meta-analysis, Ritchie et al., 2017 [[Paper](https://journals.sagepub.com/doi/abs/10.1177/0956797618774253)] [[Notes](-2017/1711.md)] [\#social-sciences](#social-sciences)
+3. Theory of Minds: Understanding Behavior in Groups Through Inverse Planning, Shum et al., 2019 [[Paper](https://arxiv.org/abs/1901.06085)] [[Notes](2019/1901.06085.md)] [\#reinforcement-learning](#reinforcement-learning) [\#social-sciences](#social-sciences)
+4. Fake news game confers psychological resistance against online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](2019/1908.md)] [\#social-sciences](#social-sciences) [\#humanities](#humanities)
+5. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](2019/190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
+6. Kids these days: Why the youth of today seem lacking, Protzko and Schooler, 2019 [[Paper](https://advances.sciencemag.org/content/5/10/eaav5916)] [[Notes](2019/1910.5916.md)] [\#social-sciences](#social-sciences)
 
 ---
 
