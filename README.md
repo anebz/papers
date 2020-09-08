@@ -16,6 +16,8 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 10. SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings, Sabet et al., 2020 [[Paper](https://arxiv.org/abs/2004.08728)] [[Notes](2020/2004.08728.md)] [\#nlp](#nlp)
 11. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2019/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 12. Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al., 2020 [[Paper](https://arxiv.org/abs/2005.14050)] [[Notes](2020/2005.14050.md)] [\#nlp](#nlp)
+13. SqueezeBERT: What can computer vision teach NLP about efficient neural networks?, Iandola et al., 2020 [[Paper](https://arxiv.org/abs/2006.11316)] [[Notes](2020/2006.11316.md)] [\#nlp](#nlp) [\#computer-vision](#computer-vision)
+14. Representation Learning for Information Extraction from Form-like Documents, Majumder et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.580/)] [[Notes](2020/2007.00580.md)] [\#nlp](#nlp)
 
 ### Embeddings
 
@@ -117,6 +119,14 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 ## Computer vision
 
 1. Cubic Stylization, Derek Liu and Jacobson, 2019 [[Paper](https://arxiv.org/abs/1910.02926)] [[Notes](2019/1910.02926.md)] [\#computer-vision](#computer-vision)
+2. SqueezeBERT: What can computer vision teach NLP about efficient neural networks?, Iandola et al., 2020 [[Paper](https://arxiv.org/abs/2006.11316)] [[Notes](2020/2006.11316.md)] [\#nlp](#nlp) [\#computer-vision](#computer-vision)
+
+---
+
+## Audio
+
+1. End-to-End Adversarial Text-to-Speech, Donahue et al., 2020 [[Paper](https://arxiv.org/abs/2006.03575)] [[Notes](2020/2006.03575.md)] [\#audio](#audio)
+2. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations, Baevski et al., 2020 [[Paper](https://arxiv.org/abs/2006.11477)] [[Notes](2020/2006.11477.md)] [\#audio](#audio)
 
 ---
 
