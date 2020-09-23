@@ -1,6 +1,30 @@
-# Paper notes
+# Research literature notes 🤓
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/anebz/resources/graphs/commit-activity)
+[![Ask me anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.twitter.com/aberasategi)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/anebz/resources/issues/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Notes from papers I'm reading, ordered by topic and chronologically.
+
+* [NLP](#nlp)
+    - [Embeddings](#embeddings)
+    - [Architectures](#architectures)
+    - [Frameworoks](#frameworks)
+    - [Datasets](#datasets)
+    - [Named entity recognition NER](#ner)
+    - [Sarcasm detection](#sarcasm-detection)
+    - [Text summarization](#text-summarization)
+* [Reinforcement learning](#reinforcement-learning)
+* [Computer vision](#computer-vision)
+* [Audio](#audio)
+* [Linguistics](#linguistics)
+* [Social sciences](#social-sciences)
+* [Humanities](#humanities)
+* [Physics](#physics)
+* [Neuroscience](#neuroscience)
+* [Algorithms](#algorithms)
 
 ## NLP
 
