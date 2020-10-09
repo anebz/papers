@@ -18,10 +18,12 @@ Notes from papers I'm reading, ordered by topic and chronologically.
     - [Text summarization](#text-summarization)
 * [Reinforcement learning](#reinforcement-learning)
 * [Computer vision](#computer-vision)
+* [Machine learning bias](#machine-learning-bias)
 * [Audio](#audio)
 * [Linguistics](#linguistics)
 * [Social sciences](#social-sciences)
 * [Humanities](#humanities)
+* [Economics](#economics)
 * [Physics](#physics)
 * [Neuroscience](#neuroscience)
 * [Algorithms](#algorithms)
@@ -34,11 +36,11 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 4. Linguistic Knowledge and Transferability of Contextual Representations, Liu et al., 2019 [[Paper](https://arxiv.org/abs/1903.08855)] [[Notes](2019/1903.08855.md)] [\#nlp](#nlp)
 5. What do you learn from context? Probing for sentence structure in contextualized word representations, Tenney et al., 2019 [[Paper](https://openreview.net/forum?id=SJzSgnRcKX)] [[Notes](2019/1905.md)] [\#nlp](#nlp)
 6. BPE-Dropout: simple and effective subword regularization, Provilkov et al., 2019 [[Paper](https://arxiv.org/abs/1910.13267)] [[Notes](2019/1910.13267.md)] [\#nlp](#nlp)
-7. Pre-trained Models for Natural Language Processing: A Survey, Qiu et al., 2020 [[Paper](https://arxiv.org/abs/2003.08271)] [\#nlp](#nlp)
+7. Pre-trained Models for Natural Language Processing: A Survey, Qiu et al., 2020 [[Paper](https://arxiv.org/abs/2003.08271)] [[Notes](2020/2003.08271.md)] [\#nlp](#nlp)
 8. Evaluating NLP models via contrast sets, Gardner et al., 2020 [[Paper](https://arxiv.org/abs/2004.02709)] [[Notes](2020/2004.02709.md)] [\#nlp](#nlp)
 9. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2020/2004.10151.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 10. SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings, Sabet et al., 2020 [[Paper](https://arxiv.org/abs/2004.08728)] [[Notes](2020/2004.08728.md)] [\#nlp](#nlp)
-11. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2019/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+11. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2020/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 12. Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al., 2020 [[Paper](https://arxiv.org/abs/2005.14050)] [[Notes](2020/2005.14050.md)] [\#nlp](#nlp)
 13. SqueezeBERT: What can computer vision teach NLP about efficient neural networks?, Iandola et al., 2020 [[Paper](https://arxiv.org/abs/2006.11316)] [[Notes](2020/2006.11316.md)] [\#nlp](#nlp) [\#computer-vision](#computer-vision)
 14. Representation Learning for Information Extraction from Form-like Documents, Majumder et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.580/)] [[Notes](2020/2007.00580.md)] [\#nlp](#nlp)
@@ -83,17 +85,21 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 ### Datasets
 
 1. Introduction to the CoNLL-2003 shared task: language-independent named entity recognition, Sang et al., 2003 [[Paper](https://dl.acm.org/citation.cfm?id=1119195)] [[Notes](-2017/0306.md)] [\#nlp](#nlp) [\#datasets](#datasets)
-2. SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference, Zellers et al., 2018 [[Paper](https://arxiv.org/abs/1808.05326)] [[Notes](2018/1808.05326.md)] [\#nlp](#nlp) [\#datasets](#datasets)
-3. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](2018/1807.2020.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
-4. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](2019/1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
-5. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](2019/1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
-6. UR-FUNNY: A Multimodal Language Dataset for Understanding Humor, Hasan et al., 2019 [[Paper](https://arxiv.org/abs/1904.06618)] [[Notes](2019/1904.06618.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
-7. HellaSwag: Can a Machine Really Finish Your Sentence?, Zellers et al., 2019 [[Paper](https://arxiv.org/abs/1905.07830)] [[Notes](2019/1905.07830.md)] [\#nlp](#nlp) [\#datasets](#datasets)
-8. Sentiment analysis is not solved! Assessing and probing sentiment classification, Barnes et al., 2019 [[Paper](https://arxiv.org/abs/1906.05887)] [[Notes](2019/1906.05887.md)] [\#nlp](#nlp) [\#datasets](#datasets)
-9. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](2019/1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
-10. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](2019/1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
-11. iSarcasm: A Dataset of Intended Sarcasm, Oprea et al., 2019 [[Paper](https://arxiv.org/abs/1911.03123)] [[Notes](2019/1911.03123.md)] [\#datasets](#datasets) [\#sarcasm-detection](#sarcasm-detection)
-12. BERTweet: A pre-trained language model for English Tweets, Nguyen et al., 2020 [[Paper](https://arxiv.org/abs/2005.10200)] [[Notes](2019/2005.10200.md)] [\#datasets](#datasets)
+2. Datasheets for datasets, Gebru et al., 2018 [[Paper](https://arxiv.org/abs/1803.09010)] [[Notes](2018/1803.09010.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+3. SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference, Zellers et al., 2018 [[Paper](https://arxiv.org/abs/1808.05326)] [[Notes](2018/1808.05326.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+4. A Named Entity Recognition Shootout for German, Riedl and Padó, 2018 [[Paper](https://www.aclweb.org/anthology/P18-2020)] [[Notes](2018/1807.2020.md)] [\#nlp](#nlp) [\#NER](#ner) [\#datasets](#datasets)
+5. Probing Neural Network Comprehension of Natural Language Arguments, Nivel and Kao, 2019 [[Paper](https://arxiv.org/abs/1907.07355)] [[Notes](2019/1907.07355.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+6. Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference., McCoy et al., 2019 [[Paper](https://arxiv.org/abs/1902.01007)] [[Notes](2019/1902.01007.md)] [\#nlp](#nlp) [\#linguistics](#linguistics) [\#datasets](#datasets)
+7. UR-FUNNY: A Multimodal Language Dataset for Understanding Humor, Hasan et al., 2019 [[Paper](https://arxiv.org/abs/1904.06618)] [[Notes](2019/1904.06618.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
+8. HellaSwag: Can a Machine Really Finish Your Sentence?, Zellers et al., 2019 [[Paper](https://arxiv.org/abs/1905.07830)] [[Notes](2019/1905.07830.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+9. Sentiment analysis is not solved! Assessing and probing sentiment classification, Barnes et al., 2019 [[Paper](https://arxiv.org/abs/1906.05887)] [[Notes](2019/1906.05887.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+10. Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model, Cai et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1239/)] [[Notes](2019/1907.1239.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
+11. Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper), Castro et al., 2019 [[Paper](https://www.aclweb.org/anthology/P19-1455/)] [[Notes](2019/1907.1455.md)] [\#sarcasm-detection](#sarcasm-detection) [\#datasets](#datasets)
+12. iSarcasm: A Dataset of Intended Sarcasm, Oprea et al., 2019 [[Paper](https://arxiv.org/abs/1911.03123)] [[Notes](2019/1911.03123.md)] [\#datasets](#datasets) [\#sarcasm-detection](#sarcasm-detection)
+13. Lessons from archives: strategies for collecting sociocultural data in machine learning, Seo Jo and Gebru, 2019 [[Paper](https://arxiv.org/abs/1912.10389)] [[Notes](2019/1912.10389.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+14. BERTweet: A pre-trained language model for English Tweets, Nguyen et al., 2020 [[Paper](https://arxiv.org/abs/2005.10200)] [[Notes](2020/2005.10200.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+15. GAIA: a fine-grained multimedia knowlege extraction system, Li et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-demos.11/), [[Notes](2020/2007.11.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+16. It's morphin' time! Combating linguistic discrimination with inflectional perturbations, Tan et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.263), [[Notes](2020/2007.00263.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 
 ### NER
 
@@ -136,7 +142,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 1. Theory of Minds: Understanding Behavior in Groups Through Inverse Planning, Shum et al., 2019 [[Paper](https://arxiv.org/abs/1901.06085)] [[Notes](2019/1901.06085.md)] [\#reinforcement-learning](#reinforcement-learning) [\#social-sciences](#social-sciences)
 2. The Hanabi Challenge: A New Frontier for AI Research, Bard et al., 2019 [[Paper](https://arxiv.org/abs/1902.00506)] [[Notes](2019/1902.00506.md)] [\#reinforcement-learning](#reinforcement-learning)
 3. Mastering Atari, Go, Chess and Shogi by Planning with a learned model, Schrittwieser et al., 2019 [[Paper](https://arxiv.org/abs/1911.08265)] [[Notes](2019/1911.08265.md)] [\#reinforcement-learning](#reinforcement-learning)
-4. Planning to Explore via Self-Supervised World Models, Sekar et al., 2020 [[Paper](https://arxiv.org/abs/2005.05960)] [[Notes](2019/2005.05960.md)] [\#reinforcement-learning](#reinforcement-learning)
+4. Planning to Explore via Self-Supervised World Models, Sekar et al., 2020 [[Paper](https://arxiv.org/abs/2005.05960)] [[Notes](2020/2005.05960.md)] [\#reinforcement-learning](#reinforcement-learning)
 
 ---
 
@@ -146,6 +152,10 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 2. SqueezeBERT: What can computer vision teach NLP about efficient neural networks?, Iandola et al., 2020 [[Paper](https://arxiv.org/abs/2006.11316)] [[Notes](2020/2006.11316.md)] [\#nlp](#nlp) [\#computer-vision](#computer-vision)
 
 ---
+
+## Machine learning bias
+
+1. Gender shades: intersectional accuracy disparities in commercial gender classification, Buolamwini and Gebru, 2018 [[Paper](http://proceedings.mlr.press/v81/buolamwini18a.html)] [[Notes](2018/1802.md)] [\#machine-learning-bias](#machine-learning-bias)
 
 ## Audio
 
@@ -165,8 +175,8 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 7. Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche, Coupé et al., 2019 [[Paper](https://advances.sciencemag.org/content/5/9/eaaw2594)] [[Notes](2019/190904.md)] [\#linguistics](#linguistics) [\#social-sciences](#social-sciences)
 8. My English sounds better than yours: Second language learners perceive their own accent as better than that of their peers, Mittlerer et al., 2020 [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227643)] [[Notes](2020/2001.0227643.md)] [\#linguistics](#linguistics)
 9. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2020/2004.10151.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-10. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2019/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-11. Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data, Bender et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.463/)] [[Notes](2019/2005.00463.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+10. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2020/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+11. Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data, Bender et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.463/)] [[Notes](2020/2005.00463.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 
 ---
 
@@ -184,6 +194,12 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 ## Humanities
 
 1. Fake news game confers psychological resistance against online misinformation, Roozenbeek and van der Linden, 2019 [[Paper](https://www.nature.com/articles/s41599-019-0279-9)] [[Notes](2019/1908.md)] [\#social-sciences](#social-sciences) [\#humanities](#humanities)
+
+---
+
+## Economics
+
+1. Why do people stay poor? Balboni et al., 2020 [[Paper](https://economics.mit.edu/faculty/cbalboni/research)] [[Notes](2020/2003.20.md)] [\#economics](#economics)
 
 ---
 
