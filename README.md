@@ -16,6 +16,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
     - [Named entity recognition NER](#ner)
     - [Sarcasm detection](#sarcasm-detection)
     - [Text summarization](#text-summarization)
+    - [Machine translation](#machine-translation)
 * [Reinforcement learning](#reinforcement-learning)
 * [Computer vision](#computer-vision)
 * [Machine learning bias](#machine-learning-bias)
@@ -30,36 +31,37 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 
 ## NLP
 
-1. Neural Machine Translation of Rare Words with Subword Units, Sennrich et al., 2015 [[Paper](https://arxiv.org/abs/1508.07909)] [[Notes](-2017/1508.07909.md)] [\#nlp](#nlp)
-2. What’s Going On in Neural Constituency Parsers? An Analysis, Gaddy et al., 2018 [[Paper](https://arxiv.org/abs/1804.07853)] [[Notes](2018/1804.07853.md)] [\#nlp](#nlp)
-3. Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple and Broadly Applicable, Hangya et al., 2018 [[Paper](https://www.aclweb.org/anthology/P18-1075)] [[Notes](2018/1807.1075.md)] [\#nlp](#nlp)
-4. Linguistic Knowledge and Transferability of Contextual Representations, Liu et al., 2019 [[Paper](https://arxiv.org/abs/1903.08855)] [[Notes](2019/1903.08855.md)] [\#nlp](#nlp)
-5. What do you learn from context? Probing for sentence structure in contextualized word representations, Tenney et al., 2019 [[Paper](https://openreview.net/forum?id=SJzSgnRcKX)] [[Notes](2019/1905.md)] [\#nlp](#nlp)
-6. BPE-Dropout: simple and effective subword regularization, Provilkov et al., 2019 [[Paper](https://arxiv.org/abs/1910.13267)] [[Notes](2019/1910.13267.md)] [\#nlp](#nlp)
-7. Pre-trained Models for Natural Language Processing: A Survey, Qiu et al., 2020 [[Paper](https://arxiv.org/abs/2003.08271)] [[Notes](2020/2003.08271.md)] [\#nlp](#nlp)
-8. Evaluating NLP models via contrast sets, Gardner et al., 2020 [[Paper](https://arxiv.org/abs/2004.02709)] [[Notes](2020/2004.02709.md)] [\#nlp](#nlp)
-9. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2020/2004.10151.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-10. SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings, Sabet et al., 2020 [[Paper](https://arxiv.org/abs/2004.08728)] [[Notes](2020/2004.08728.md)] [\#nlp](#nlp)
-11. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2020/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-12. Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al., 2020 [[Paper](https://arxiv.org/abs/2005.14050)] [[Notes](2020/2005.14050.md)] [\#nlp](#nlp)
-13. SqueezeBERT: What can computer vision teach NLP about efficient neural networks?, Iandola et al., 2020 [[Paper](https://arxiv.org/abs/2006.11316)] [[Notes](2020/2006.11316.md)] [\#nlp](#nlp) [\#computer-vision](#computer-vision)
-14. Representation Learning for Information Extraction from Form-like Documents, Majumder et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.580/)] [[Notes](2020/2007.00580.md)] [\#nlp](#nlp)
+1. What’s Going On in Neural Constituency Parsers? An Analysis, Gaddy et al., 2018 [[Paper](https://arxiv.org/abs/1804.07853)] [[Notes](2018/1804.07853.md)] [\#nlp](#nlp)
+2. Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple and Broadly Applicable, Hangya et al., 2018 [[Paper](https://www.aclweb.org/anthology/P18-1075)] [[Notes](2018/1807.1075.md)] [\#nlp](#nlp)
+3. What do you learn from context? Probing for sentence structure in contextualized word representations, Tenney et al., 2019 [[Paper](https://openreview.net/forum?id=SJzSgnRcKX)] [[Notes](2019/1905.md)] [\#nlp](#nlp)
+4. BPE-Dropout: simple and effective subword regularization, Provilkov et al., 2019 [[Paper](https://arxiv.org/abs/1910.13267)] [[Notes](2019/1910.13267.md)] [\#nlp](#nlp)
+5. Evaluating NLP models via contrast sets, Gardner et al., 2020 [[Paper](https://arxiv.org/abs/2004.02709)] [[Notes](2020/2004.02709.md)] [\#nlp](#nlp)
+6. Byte Pair Encoding is Suboptimal for Language Model Pretraining, Bostrom et al., 2020 [[Paper](https://arxiv.org/abs/2004.03720)] [[Notes](2020/2004.03720.md)] [\#nlp](#nlp)
+7. Translation artifacts in cross-lingual transfer learning, Artetxe et al., 2020 [[Paper](https://arxiv.org/abs/2004.04721)] [[Notes](2020/2004.04721.md)] [\#nlp](#nlp)
+8. Weight poisoning attacks on pre-trained models, Kurita et al., 2020 [[Paper](https://arxiv.org/abs/2004.06660)] [[Notes](2020/2004.06660.md)] [\#nlp](#nlp)
+9. SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings, Sabet et al., 2020 [[Paper](https://arxiv.org/abs/2004.08728)] [[Notes](2020/2004.08728.md)] [\#nlp](#nlp)
+10. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2020/2004.10151.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+11. Beyond accuracy: behavioral testing of NLP models with CheckList, Ribeiro et al., 2020 [[Paper](https://arxiv.org/abs/2005.04118)] [[Notes](2020/2005.04118.md)] [\#nlp](#nlp)
+12. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2020/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+13. Representation Learning for Information Extraction from Form-like Documents, Majumder et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.580/)] [[Notes](2020/2007.00580.md)] [\#nlp](#nlp)
+14. Learning to tag OOV tokens by integrating contextual representation and background knowledge, He et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.58/)] [[Notes](2020/2007.58.md)] [\#nlp](#nlp)
+15. It's not just size that matters, small language models are also few-shot learners, Schick and Schütze, 2020 [[Paper](https://arxiv.org/abs/2009.07118)] [[Notes](2020/2009.07118.md)] [\#nlp](#nlp)
 
 ### Embeddings
 
 1. Semi-supervised sequence tagging with bidirectional language models, Peters et al., 2017 [[Paper](https://arxiv.org/abs/1705.00108)] [[Notes](-2017/1705.00108.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 2. Mimicking Word Embeddings using Subword RNNs, Pinter et al., 2017 [[Paper](https://www.aclweb.org/anthology/D17-1010/)] [[Notes](-2017/1709.1010.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 3. Deep contextualized word representations, Peters et al., 2018 [[Paper](https://arxiv.org/abs/1802.05365)] [[Notes](2018/1802.05365.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-4. Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates, Kudo, 2018 [[Paper](https://www.aclweb.org/anthology/P18-1007/)] [[Notes](2018/1807.1007.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-5. Dissecting contextual word embeddings: architecture and representation, Peters et al., 2018 [[Paper](https://arxiv.org/abs/1808.08949)] [[Notes](2018/1808.08949.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-6. BERT: Pre-training of deep bidirectional transformers for language understanding, Devlin et al., 2018 [[Paper](https://arxiv.org/abs/1810.04805)] [[Notes](2018/1810.04805.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-7. Learning Semantic Representations for Novel Words: Leveraging Both Form and Context, Schick et al., 2018 [[Paper](https://arxiv.org/abs/1811.03866)] [[Notes](2018/1811.03866.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-8. Wikipedia2Vec: An Efficient Toolkit for Learning and Visualizing the Embeddings of Words and Entities from Wikipedia, Yamada et al., 2018 [[Paper](https://arxiv.org/abs/1812.06280)] [[Notes](2018/1812.06280.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-9. Rare Words: A Major Problem for Contextualized Embeddings and How to Fix it by Attentive Mimicking, Schick et al., 2019 [[Paper](https://www.aclweb.org/anthology/N19-1048/)] [[Notes](2019/1906.1048.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-10. Attentive Mimicking: Better Word Embeddings by Attending to Informative Contexts, Schick et al., 2019 [[Paper](https://arxiv.org/abs/1904.06707)] [[Notes](2019/1904.06707.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-11. BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance, Schick et al., 2019 [[Paper](https://arxiv.org/abs/1910.07181)] [[Notes](2019/1910.07181.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-12. BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA, Poerner et al., 2019 [[Paper](https://arxiv.org/abs/1911.03681)] [[Notes](2019/1911.03681.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
-13. Byte Pair Encoding is Suboptimal for Language Model Pretraining, Bostrom et al., 2020 [[Paper](https://arxiv.org/abs/2004.03720)] [[Notes](2020/2004.03720.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+4. Linguistic Knowledge and Transferability of Contextual Representations, Liu et al., 2019 [[Paper](https://arxiv.org/abs/1903.08855)] [[Notes](2019/1903.08855.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+5. Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates, Kudo, 2018 [[Paper](https://www.aclweb.org/anthology/P18-1007/)] [[Notes](2018/1807.1007.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+6. Dissecting contextual word embeddings: architecture and representation, Peters et al., 2018 [[Paper](https://arxiv.org/abs/1808.08949)] [[Notes](2018/1808.08949.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+7. BERT: Pre-training of deep bidirectional transformers for language understanding, Devlin et al., 2018 [[Paper](https://arxiv.org/abs/1810.04805)] [[Notes](2018/1810.04805.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+8. Learning Semantic Representations for Novel Words: Leveraging Both Form and Context, Schick et al., 2018 [[Paper](https://arxiv.org/abs/1811.03866)] [[Notes](2018/1811.03866.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+9. Wikipedia2Vec: An Efficient Toolkit for Learning and Visualizing the Embeddings of Words and Entities from Wikipedia, Yamada et al., 2018 [[Paper](https://arxiv.org/abs/1812.06280)] [[Notes](2018/1812.06280.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+10. Rare Words: A Major Problem for Contextualized Embeddings and How to Fix it by Attentive Mimicking, Schick et al., 2019 [[Paper](https://www.aclweb.org/anthology/N19-1048/)] [[Notes](2019/1906.1048.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+11. Attentive Mimicking: Better Word Embeddings by Attending to Informative Contexts, Schick et al., 2019 [[Paper](https://arxiv.org/abs/1904.06707)] [[Notes](2019/1904.06707.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+12. BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance, Schick et al., 2019 [[Paper](https://arxiv.org/abs/1910.07181)] [[Notes](2019/1910.07181.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
+13. BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA, Poerner et al., 2019 [[Paper](https://arxiv.org/abs/1911.03681)] [[Notes](2019/1911.03681.md)] [\#nlp](#nlp) [\#embeddings](#embeddings)
 
 ### Architectures
 
@@ -74,6 +76,9 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 9. Generalization through Memorization: Nearest Neighbor Language Models, Khandelwal et al., 2019 [[Paper](https://arxiv.org/abs/1911.001723)] [[Notes](2019/1911.001723.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 10. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](2019/1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 11. A Transformer-based approach to Irony and Sarcasm detection, Potamias et al., 2019 [[Paper](https://arxiv.org/abs/1911.10401)] [[Notes](2019/1911.10401.md)] [\#sarcasm-detection](#sarcasm-detection) [\#architecture](#architecture)
+12. Pre-trained Models for Natural Language Processing: A Survey, Qiu et al., 2020 [[Paper](https://arxiv.org/abs/2003.08271)] [[Notes](2020/2003.08271.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+13. SqueezeBERT: What can computer vision teach NLP about efficient neural networks?, Iandola et al., 2020 [[Paper](https://arxiv.org/abs/2006.11316)] [[Notes](2020/2006.11316.md)] [\#nlp](#nlp) [\#architectures](#architectures) [\#computer-vision](#computer-vision)
+14. A comparison of LSTM and BERT for small corpus, Ezen-Can, 2020 [[Paper](https://arxiv.org/abs/2009.05451)] [[Notes](2020/2009.05451.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
 ### Frameworks
 
@@ -134,6 +139,12 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 ### Text summarization
 
 1. Evaluating the Factual Consistency of Abstractive Text Summarization, Kryscinski et al., 2019 [[Paper](https://arxiv.org/abs/1910.12840)] [[Notes](2019/1910.12840.md)] [\#nlp](#nlp) [\#text-summarization](#text-summarization)
+2. A survey on text simplification, Sikka and Mago, 2020 [[Paper](https://arxiv.org/abs/2008.08612)] [[Notes](2020/2008.08612.md)] [\#nlp](#nlp) [\#text-summarization](#text-summarization)
+
+### Machine translation
+
+1. Neural Machine Translation of Rare Words with Subword Units, Sennrich et al., 2015 [[Paper](https://arxiv.org/abs/1508.07909)] [[Notes](-2017/1508.07909.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
+2. Unsupervised neural machine translation, Artetxe et al., 2017 [[Paper](https://arxiv.org/abs/1710.11041)] [[Notes](2020/1710.11041.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
 
 ---
 
@@ -142,7 +153,8 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 1. Theory of Minds: Understanding Behavior in Groups Through Inverse Planning, Shum et al., 2019 [[Paper](https://arxiv.org/abs/1901.06085)] [[Notes](2019/1901.06085.md)] [\#reinforcement-learning](#reinforcement-learning) [\#social-sciences](#social-sciences)
 2. The Hanabi Challenge: A New Frontier for AI Research, Bard et al., 2019 [[Paper](https://arxiv.org/abs/1902.00506)] [[Notes](2019/1902.00506.md)] [\#reinforcement-learning](#reinforcement-learning)
 3. Mastering Atari, Go, Chess and Shogi by Planning with a learned model, Schrittwieser et al., 2019 [[Paper](https://arxiv.org/abs/1911.08265)] [[Notes](2019/1911.08265.md)] [\#reinforcement-learning](#reinforcement-learning)
-4. Planning to Explore via Self-Supervised World Models, Sekar et al., 2020 [[Paper](https://arxiv.org/abs/2005.05960)] [[Notes](2020/2005.05960.md)] [\#reinforcement-learning](#reinforcement-learning)
+4. Language as a cognitive tool to imagine goals in curiosity-driven exploration, Colas et al., 2020 [[Paper](https://arxiv.org/abs/2002.09253)] [[Notes](2020/2002.09253.md)] [\#reinforcement-learning](#reinforcement-learning)
+5. Planning to Explore via Self-Supervised World Models, Sekar et al., 2020 [[Paper](https://arxiv.org/abs/2005.05960)] [[Notes](2020/2005.05960.md)] [\#reinforcement-learning](#reinforcement-learning)
 
 ---
 
@@ -156,6 +168,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 ## Machine learning bias
 
 1. Gender shades: intersectional accuracy disparities in commercial gender classification, Buolamwini and Gebru, 2018 [[Paper](http://proceedings.mlr.press/v81/buolamwini18a.html)] [[Notes](2018/1802.md)] [\#machine-learning-bias](#machine-learning-bias)
+2. Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al., 2020 [[Paper](https://arxiv.org/abs/2005.14050)] [[Notes](2020/2005.14050.md)] [\#nlp](#nlp) [\#machine-learning-bias](#machine-learning-bias)
 
 ## Audio
 
