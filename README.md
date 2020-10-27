@@ -19,7 +19,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
     - [Machine translation](#machine-translation)
 * [Reinforcement learning](#reinforcement-learning)
 * [Computer vision](#computer-vision)
-* [Machine learning bias](#machine-learning-bias)
+* [Machine learning](#machine-learning)
 * [Audio](#audio)
 * [Linguistics](#linguistics)
 * [Social sciences](#social-sciences)
@@ -43,9 +43,12 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 10. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2020/2004.10151.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 11. Beyond accuracy: behavioral testing of NLP models with CheckList, Ribeiro et al., 2020 [[Paper](https://arxiv.org/abs/2005.04118)] [[Notes](2020/2005.04118.md)] [\#nlp](#nlp)
 12. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2020/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-13. Representation Learning for Information Extraction from Form-like Documents, Majumder et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.580/)] [[Notes](2020/2007.00580.md)] [\#nlp](#nlp)
-14. Learning to tag OOV tokens by integrating contextual representation and background knowledge, He et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.58/)] [[Notes](2020/2007.58.md)] [\#nlp](#nlp)
-15. It's not just size that matters, small language models are also few-shot learners, Schick and Schütze, 2020 [[Paper](https://arxiv.org/abs/2009.07118)] [[Notes](2020/2009.07118.md)] [\#nlp](#nlp)
+13. Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al., 2020 [[Paper](https://arxiv.org/abs/2005.14050)] [[Notes](2020/2005.14050.md)] [\#nlp](#nlp)
+14. Representation Learning for Information Extraction from Form-like Documents, Majumder et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.580/)] [[Notes](2020/2007.00580.md)] [\#nlp](#nlp)
+15. Learning to tag OOV tokens by integrating contextual representation and background knowledge, He et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.58/)] [[Notes](2020/2007.58.md)] [\#nlp](#nlp)
+16. It's not just size that matters, small language models are also few-shot learners, Schick and Schütze, 2020 [[Paper](https://arxiv.org/abs/2009.07118)] [[Notes](2020/2009.07118.md)] [\#nlp](#nlp)
+17. Did you read the next episode? Using textual cues for predicting podcast popularity, Joshi et al., 2020 [[Paper](https://drive.google.com/file/d/1fPwzroOnWXRD91jYB9RybaueIB3W4P9T/view)] [[Notes](2020/2010.18.md)] [\#nlp](#nlp)
+18. A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios, Hedderich et al., 2020 [[Paper](https://arxiv.org/abs/2010.12309)] [[Notes](2020/2010.12309.md)] [\#nlp](#nlp)
 
 ### Embeddings
 
@@ -135,6 +138,8 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 15. A Transformer-based approach to Irony and Sarcasm detection, Potamias et al., 2019 [[Paper](https://arxiv.org/abs/1911.10401)] [[Notes](2019/1911.10401.md)] [\#sarcasm-detection](#sarcasm-detection) [\#architecture](#architecture)
 16. Deep and dense sarcasm detection, Pelser et al., 2019 [[Paper](https://arxiv.org/abs/1911.07474)] [[Notes](2019/1911.07474.md)] [\#sarcasm-detection](#sarcasm-detection)
 17. iSarcasm: A Dataset of Intended Sarcasm, Oprea et al., 2019 [[Paper](https://arxiv.org/abs/1911.03123)] [[Notes](2019/1911.03123.md)] [\#datasets](#datasets) [\#sarcasm-detection](#sarcasm-detection)
+18. Reactive supervision: a new method for collecting sarcasm data, Shmueli, 2020 [[Paper](https://arxiv.org/abs/2009.13080)] [[Notes](2020/2009.13080.md)] [\#sarcasm-detection](#sarcasm-detection)
+
 
 ### Text summarization
 
@@ -165,10 +170,10 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 
 ---
 
-## Machine learning bias
+## Machine learning
 
-1. Gender shades: intersectional accuracy disparities in commercial gender classification, Buolamwini and Gebru, 2018 [[Paper](http://proceedings.mlr.press/v81/buolamwini18a.html)] [[Notes](2018/1802.md)] [\#machine-learning-bias](#machine-learning-bias)
-2. Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al., 2020 [[Paper](https://arxiv.org/abs/2005.14050)] [[Notes](2020/2005.14050.md)] [\#nlp](#nlp) [\#machine-learning-bias](#machine-learning-bias)
+1. Gender shades: intersectional accuracy disparities in commercial gender classification, Buolamwini and Gebru, 2018 [[Paper](http://proceedings.mlr.press/v81/buolamwini18a.html)] [[Notes](2018/1802.md)] [\#machine-learning](#machine-learning)
+3. Interpretable Machine Learning - A Brief History, State-of-the-Art and Challenges, Molnar et al., 2020 [[Paper](https://arxiv.org/abs/2010.09337)] [[Notes](2020/2010.09337.md)] [\#machine-learning](#machine-learning)
 
 ## Audio
 
