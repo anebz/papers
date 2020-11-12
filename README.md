@@ -79,7 +79,8 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 9. Generalization through Memorization: Nearest Neighbor Language Models, Khandelwal et al., 2019 [[Paper](https://arxiv.org/abs/1911.001723)] [[Notes](2019/1911.001723.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 10. Single Headed Attention RNN: Stop Thinking With Your Head, Merity, 2019 [[Paper](https://arxiv.org/abs/1911.11423)] [[Notes](2019/1911.11423.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 11. A Transformer-based approach to Irony and Sarcasm detection, Potamias et al., 2019 [[Paper](https://arxiv.org/abs/1911.10401)] [[Notes](2019/1911.10401.md)] [\#sarcasm-detection](#sarcasm-detection) [\#architecture](#architecture)
-12. Pre-trained Models for Natural Language Processing: A Survey, Qiu et al., 2020 [[Paper](https://arxiv.org/abs/2003.08271)] [[Notes](2020/2003.08271.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+12. ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training, Qi et al., 2020 [[Paper](https://arxiv.org/abs/2001.04063)] [[Notes](2020/2001.04063.md)] [\#nlp](#nlp) [\#architectures](#architectures)
+13. Pre-trained Models for Natural Language Processing: A Survey, Qiu et al., 2020 [[Paper](https://arxiv.org/abs/2003.08271)] [[Notes](2020/2003.08271.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 13. SqueezeBERT: What can computer vision teach NLP about efficient neural networks?, Iandola et al., 2020 [[Paper](https://arxiv.org/abs/2006.11316)] [[Notes](2020/2006.11316.md)] [\#nlp](#nlp) [\#architectures](#architectures) [\#computer-vision](#computer-vision)
 14. A comparison of LSTM and BERT for small corpus, Ezen-Can, 2020 [[Paper](https://arxiv.org/abs/2009.05451)] [[Notes](2020/2009.05451.md)] [\#nlp](#nlp) [\#architectures](#architectures)
 
@@ -148,8 +149,10 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 
 ### Machine translation
 
-1. Neural Machine Translation of Rare Words with Subword Units, Sennrich et al., 2015 [[Paper](https://arxiv.org/abs/1508.07909)] [[Notes](-2017/1508.07909.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
-2. Unsupervised neural machine translation, Artetxe et al., 2017 [[Paper](https://arxiv.org/abs/1710.11041)] [[Notes](2020/1710.11041.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
+1. Unsupervised Tokenization for Machine Translation, Chung and Gildea, 2009 [[Paper](https://www.aclweb.org/anthology/D09-1075/)] [[Notes](-2017/091075.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
+2. Neural Machine Translation of Rare Words with Subword Units, Sennrich et al., 2015 [[Paper](https://arxiv.org/abs/1508.07909)] [[Notes](-2017/1508.07909.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
+3. Unsupervised neural machine translation, Artetxe et al., 2017 [[Paper](https://arxiv.org/abs/1710.11041)] [[Notes](2017/1710.11041.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
+4. How Much Does Tokenization Affect Neural Machine Translation? Domingo et al., 2018 [[Paper](https://arxiv.org/abs/1812.08621)] [[Notes](2018/1812.08621.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
 
 ---
 
