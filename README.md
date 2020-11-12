@@ -109,6 +109,8 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 14. BERTweet: A pre-trained language model for English Tweets, Nguyen et al., 2020 [[Paper](https://arxiv.org/abs/2005.10200)] [[Notes](2020/2005.10200.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 15. GAIA: a fine-grained multimedia knowlege extraction system, Li et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-demos.11/), [[Notes](2020/2007.11.md)] [\#nlp](#nlp) [\#datasets](#datasets)
 16. It's morphin' time! Combating linguistic discrimination with inflectional perturbations, Tan et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.263), [[Notes](2020/2007.00263.md)] [\#nlp](#nlp) [\#datasets](#datasets)
+17. Reactive Supervision: A New method for Collecting Sarcasm Data, Shmueli et al, 2020 [[Paper](https://arxiv.org/abs/2009.13080)] [[Notes](2020/2009.13080.md)] [\#datasets](#datasets) [\#sarcasm-detection](#sarcasm-detection)
+
 
 ### NER
 
@@ -139,7 +141,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 15. A Transformer-based approach to Irony and Sarcasm detection, Potamias et al., 2019 [[Paper](https://arxiv.org/abs/1911.10401)] [[Notes](2019/1911.10401.md)] [\#sarcasm-detection](#sarcasm-detection) [\#architecture](#architecture)
 16. Deep and dense sarcasm detection, Pelser et al., 2019 [[Paper](https://arxiv.org/abs/1911.07474)] [[Notes](2019/1911.07474.md)] [\#sarcasm-detection](#sarcasm-detection)
 17. iSarcasm: A Dataset of Intended Sarcasm, Oprea et al., 2019 [[Paper](https://arxiv.org/abs/1911.03123)] [[Notes](2019/1911.03123.md)] [\#datasets](#datasets) [\#sarcasm-detection](#sarcasm-detection)
-18. Reactive supervision: a new method for collecting sarcasm data, Shmueli, 2020 [[Paper](https://arxiv.org/abs/2009.13080)] [[Notes](2020/2009.13080.md)] [\#sarcasm-detection](#sarcasm-detection)
+18. Reactive Supervision: A New method for Collecting Sarcasm Data, Shmueli et al, 2020 [[Paper](https://arxiv.org/abs/2009.13080)] [[Notes](2020/2009.13080.md)] [\#datasets](#datasets) [\#sarcasm-detection](#sarcasm-detection)
 
 
 ### Text summarization
