@@ -219,7 +219,7 @@ Previous work:
 * local models: only info within the text. linguistic incongruity, positive verb used in negative context, etc
 * contextual models: local and contextual info, info about the forum type, user context, historical tweets, personality features.
 
-Baseline: SIARN (#TODO: read paper Tay et al. 2018)
+Baseline: SIARN
 
 Results: User embeddings show remarkable predictive power on the Ptacek dataset. On the Riloff dataset, however, user embeddings seem to be far less informative.
 
