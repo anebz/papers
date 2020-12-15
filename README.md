@@ -42,13 +42,16 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 9. SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings, Sabet et al., 2020 [[Paper](https://arxiv.org/abs/2004.08728)] [[Notes](2020/2004.08728.md)] [\#nlp](#nlp)
 10. Experience Grounds Language, Bisk et al., 2020 [[Paper](https://arxiv.org/abs/2004.10151)] [[Notes](2020/2004.10151.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
 11. Beyond accuracy: behavioral testing of NLP models with CheckList, Ribeiro et al., 2020 [[Paper](https://arxiv.org/abs/2005.04118)] [[Notes](2020/2005.04118.md)] [\#nlp](#nlp)
-12. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2020/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
-13. Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al., 2020 [[Paper](https://arxiv.org/abs/2005.14050)] [[Notes](2020/2005.14050.md)] [\#nlp](#nlp)
-14. Representation Learning for Information Extraction from Form-like Documents, Majumder et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.580/)] [[Notes](2020/2007.00580.md)] [\#nlp](#nlp)
-15. Learning to tag OOV tokens by integrating contextual representation and background knowledge, He et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.58/)] [[Notes](2020/2007.58.md)] [\#nlp](#nlp)
-16. It's not just size that matters, small language models are also few-shot learners, Schick and Schütze, 2020 [[Paper](https://arxiv.org/abs/2009.07118)] [[Notes](2020/2009.07118.md)] [\#nlp](#nlp)
-17. Did you read the next episode? Using textual cues for predicting podcast popularity, Joshi et al., 2020 [[Paper](https://drive.google.com/file/d/1fPwzroOnWXRD91jYB9RybaueIB3W4P9T/view)] [[Notes](2020/2010.18.md)] [\#nlp](#nlp)
-18. A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios, Hedderich et al., 2020 [[Paper](https://arxiv.org/abs/2010.12309)] [[Notes](2020/2010.12309.md)] [\#nlp](#nlp)
+12. The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes, Kiela et al., 2020 [[Paper](https://arxiv.org/abs/2005.04790)] [[Notes](2020/2005.04790.md)] [\#nlp](#nlp)
+13. The Unstoppable Rise of Computational Linguistics in Deep Learning, Henderson, 2020 [[Paper](https://arxiv.org/abs/2005.06420)] [[Notes](2020/2005.06420.md)] [\#nlp](#nlp) [\#linguistics](#linguistics)
+14. Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al., 2020 [[Paper](https://arxiv.org/abs/2005.14050)] [[Notes](2020/2005.14050.md)] [\#nlp](#nlp)
+15. Representation Learning for Information Extraction from Form-like Documents, Majumder et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.580/)] [[Notes](2020/2007.00580.md)] [\#nlp](#nlp)
+16. Learning to tag OOV tokens by integrating contextual representation and background knowledge, He et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.58/)] [[Notes](2020/2007.58.md)] [\#nlp](#nlp)
+17. It's not just size that matters, small language models are also few-shot learners, Schick and Schütze, 2020 [[Paper](https://arxiv.org/abs/2009.07118)] [[Notes](2020/2009.07118.md)] [\#nlp](#nlp)
+18. Did you read the next episode? Using textual cues for predicting podcast popularity, Joshi et al., 2020 [[Paper](https://drive.google.com/file/d/1fPwzroOnWXRD91jYB9RybaueIB3W4P9T/view)] [[Notes](2020/2010.18.md)] [\#nlp](#nlp)
+19. A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios, Hedderich et al., 2020 [[Paper](https://arxiv.org/abs/2010.12309)] [[Notes](2020/2010.12309.md)] [\#nlp](#nlp)
+20. Adapting Coreference Resolution to Twitter Conversations, Aktas et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.222/)] [[Notes](2020/2011.222.md)] [\#nlp](#nlp)
+21. Learning from others' mistakes: avoiding dataset biases without modeilng them, Sanh et al., 2020 [[Paper](https://arxiv.org/abs/2012.01300)] [[Notes](2020/2012.01300.md)] [\#nlp](#nlp)
 
 ### Embeddings
 
@@ -155,6 +158,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 2. Neural Machine Translation of Rare Words with Subword Units, Sennrich et al., 2015 [[Paper](https://arxiv.org/abs/1508.07909)] [[Notes](-2017/1508.07909.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
 3. Unsupervised neural machine translation, Artetxe et al., 2017 [[Paper](https://arxiv.org/abs/1710.11041)] [[Notes](2017/1710.11041.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
 4. How Much Does Tokenization Affect Neural Machine Translation? Domingo et al., 2018 [[Paper](https://arxiv.org/abs/1812.08621)] [[Notes](2018/1812.08621.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
+5. Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT, Chronopoulou et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.214/)] [[Notes](2020/2011.214.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
 
 ---
 
