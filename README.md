@@ -1,22 +1,23 @@
 # Research literature notes 🤓
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/anebz/resources/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/anebz/papers/graphs/commit-activity)
 [![Ask me anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.twitter.com/aberasategi)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/anebz/resources/issues/)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/anebz/papers/issues/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Notes from papers I'm reading, ordered by topic and chronologically.
 
 * [NLP](#nlp)
-    - [Embeddings](#embeddings)
-    - [Architectures](#architectures)
-    - [Frameworoks](#frameworks)
-    - [Datasets](#datasets)
-    - [Named entity recognition NER](#ner)
-    - [Sarcasm detection](#sarcasm-detection)
-    - [Text summarization](#text-summarization)
-    - [Machine translation](#machine-translation)
+  * [Embeddings](#embeddings)
+  * [Architectures](#architectures)
+  * [Frameworks](#frameworks)
+  * [Datasets](#datasets)
+  * [NER](#ner)
+  * [Sarcasm detection](#sarcasm-detection)
+  * [Text summarization](#text-summarization)
+  * [Machine translation](#machine-translation)
+  * [Text generation](#text-generation)
 * [Reinforcement learning](#reinforcement-learning)
 * [Computer vision](#computer-vision)
 * [Machine learning](#machine-learning)
@@ -143,11 +144,11 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 17. iSarcasm: A Dataset of Intended Sarcasm, Oprea et al., 2019 [[Paper](https://arxiv.org/abs/1911.03123)] [[Notes](2019/1911.03123.md)] [\#datasets](#datasets) [\#sarcasm-detection](#sarcasm-detection)
 18. Reactive Supervision: A New method for Collecting Sarcasm Data, Shmueli et al, 2020 [[Paper](https://arxiv.org/abs/2009.13080)] [[Notes](2020/2009.13080.md)] [\#datasets](#datasets) [\#sarcasm-detection](#sarcasm-detection)
 
-
 ### Text summarization
 
 1. Evaluating the Factual Consistency of Abstractive Text Summarization, Kryscinski et al., 2019 [[Paper](https://arxiv.org/abs/1910.12840)] [[Notes](2019/1910.12840.md)] [\#nlp](#nlp) [\#text-summarization](#text-summarization)
-2. A survey on text simplification, Sikka and Mago, 2020 [[Paper](https://arxiv.org/abs/2008.08612)] [[Notes](2020/2008.08612.md)] [\#nlp](#nlp) [\#text-summarization](#text-summarization)
+2. TLDR: extreme summarization of scientific documents, Cachola et al, 2020 [[Paper](https://arxiv.org/abs/2004.15011)] [[Notes](2020/2004.15011.md)] [\#nlp](#nlp) [\#text-summarization](#text-summarization)
+3. A survey on text simplification, Sikka and Mago, 2020 [[Paper](https://arxiv.org/abs/2008.08612)] [[Notes](2020/2008.08612.md)] [\#nlp](#nlp) [\#text-summarization](#text-summarization)
 
 ### Machine translation
 
@@ -155,6 +156,10 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 2. Neural Machine Translation of Rare Words with Subword Units, Sennrich et al., 2015 [[Paper](https://arxiv.org/abs/1508.07909)] [[Notes](-2017/1508.07909.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
 3. Unsupervised neural machine translation, Artetxe et al., 2017 [[Paper](https://arxiv.org/abs/1710.11041)] [[Notes](2017/1710.11041.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
 4. How Much Does Tokenization Affect Neural Machine Translation? Domingo et al., 2018 [[Paper](https://arxiv.org/abs/1812.08621)] [[Notes](2018/1812.08621.md)] [\#nlp](#nlp) [\#machine-translation](#machine-translation)
+
+### Text generation
+
+* [Article on different types of NLG](https://huggingface.co/blog/how-to-generate)
 
 ---
 
