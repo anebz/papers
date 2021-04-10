@@ -54,6 +54,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 20. A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios, Hedderich et al., 2020 [[Paper](https://arxiv.org/abs/2010.12309)] [[Notes](2020/2010.12309.md)] [\#nlp](#nlp)
 21. Adapting Coreference Resolution to Twitter Conversations, Aktas et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.222/)] [[Notes](2020/2011.222.md)] [\#nlp](#nlp)
 22. Learning from others' mistakes: avoiding dataset biases without modeilng them, Sanh et al., 2020 [[Paper](https://arxiv.org/abs/2012.01300)] [[Notes](2020/2012.01300.md)] [\#nlp](#nlp)
+23. CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation, Clark et al., 2021 [[Paper](https://arxiv.org/abs/2103.06874)] [[Notes](2020/2103.06874.md)] [\#nlp](#nlp)
 
 ### Embeddings
 
@@ -194,6 +195,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 
 1. End-to-End Adversarial Text-to-Speech, Donahue et al., 2020 [[Paper](https://arxiv.org/abs/2006.03575)] [[Notes](2020/2006.03575.md)] [\#audio](#audio)
 2. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations, Baevski et al., 2020 [[Paper](https://arxiv.org/abs/2006.11477)] [[Notes](2020/2006.11477.md)] [\#audio](#audio)
+3. Large-scale multilingual audio visual dubbing, Yang et al., 2020 [[Paper](https://arxiv.org/abs/2011.03530)] [[Notes](2020/2011.03530.md)] [\#audio](#audio)
 
 ---
 
