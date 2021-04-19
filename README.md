@@ -52,8 +52,9 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 18. It's not just size that matters, small language models are also few-shot learners, Schick and Schütze, 2020 [[Paper](https://arxiv.org/abs/2009.07118)] [[Notes](2020/2009.07118.md)] [\#nlp](#nlp)
 19. Did you read the next episode? Using textual cues for predicting podcast popularity, Joshi et al., 2020 [[Paper](https://drive.google.com/file/d/1fPwzroOnWXRD91jYB9RybaueIB3W4P9T/view)] [[Notes](2020/2010.18.md)] [\#nlp](#nlp)
 20. A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios, Hedderich et al., 2020 [[Paper](https://arxiv.org/abs/2010.12309)] [[Notes](2020/2010.12309.md)] [\#nlp](#nlp)
-21. Adapting Coreference Resolution to Twitter Conversations, Aktas et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.222/)] [[Notes](2020/2011.222.md)] [\#nlp](#nlp)
-22. Learning from others' mistakes: avoiding dataset biases without modeilng them, Sanh et al., 2020 [[Paper](https://arxiv.org/abs/2012.01300)] [[Notes](2020/2012.01300.md)] [\#nlp](#nlp)
+21. Challenges in Deploying Machine Learning: a Survey of Case Studies, Paleyes et al., 2020 [[Paper](https://arxiv.org/abs/2011.09926)] [[Notes](2020/2011.09926.md)] [\#nlp](#nlp)
+22. Adapting Coreference Resolution to Twitter Conversations, Aktas et al., 2020 [[Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.222/)] [[Notes](2020/2011.222.md)] [\#nlp](#nlp)
+23. Learning from others' mistakes: avoiding dataset biases without modeilng them, Sanh et al., 2020 [[Paper](https://arxiv.org/abs/2012.01300)] [[Notes](2020/2012.01300.md)] [\#nlp](#nlp)
 
 ### Embeddings
 
